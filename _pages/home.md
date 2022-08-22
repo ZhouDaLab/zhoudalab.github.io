@@ -15,7 +15,7 @@ permalink: /
 
 ### Education	
 - 2006.09 - 2011.07 Ph.D. in Probability and statistics,  
-  School of Mathematical Sciences, Peking University, China. Advisor: Prof. Dayue Chen. 
+  School of Mathematical Sciences, Peking University, China. Advisor: [Prof. Dayue Chen](https://www.math.pku.edu.cn/teachers/dayue/indexE.htm). 
 
 - 2002.09 - 2006.07 B.S. in Probability and statistics,  
   Deparment of Mathematics, Huazhong University of Science and Technology, China.
@@ -23,10 +23,12 @@ permalink: /
 ### Professional Experience 	
 - 2017.11 - Present, **Asscociate Professor**,  
   School of Mathematical Sciences, Xiamen University, China.  
+- 2018.09-2019.09, **Visiting Scientist**,  
+  Max Planck Institute for Evolutionary Biology, Germany. Collaborator: [Prof. Arne Traulsen](http://www.evolbio.mpg.de/~traulsen)
 - 2013.07 - 2017.10, **Assistant Professor**,  
   School of Mathematical Sciences, Xiamen University, China. 
 - 2011.07 - 2013.07, **Postdoctoral Researcher**,  
-  School of Information Science and Technology, Tsinghua University, China. Mentor: Prof. Michael Q Zhang.
+  School of Information Science and Technology, Tsinghua University, China. Mentor: [Prof. Michael Q Zhang](https://labs.utdallas.edu/zhanglab/).
 	
 
 ### 科研项目
