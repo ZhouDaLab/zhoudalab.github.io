@@ -1,7 +1,7 @@
 ---
 title: "ZHOU Da'S Lab - Home"
 layout: homelay
-excerpt: "ZhouDa Lab at Xiamen University."
+excerpt: "ZHOU Da'S Lab at Xiamen University."
 sitemap: false
 permalink: /
 ---
@@ -13,25 +13,19 @@ permalink: /
 ### 课题组微信公众号
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
 
+### Education	
+- 2006.09 - 2011.07 Ph.D. in Probability and statistics,
+  School of Mathematical Sciences, Peking University, Advisor: Prof. Dayue Chen. 
+
+- 2002.09 - 2006.07 B.S. in Probability and statistics,
+  Deparment of Mathematics, Huazhong University of Science and Technology.
+
 ### 工作经历	
 - **副教授**，  数学科学学院 概率统计系，厦门大学，2017.11 - 
 - **助理教授**，数学科学学院 概率统计系，厦门大学，2013.07 - 2017.10 
 - **博士后**，  信息国家实验室（筹），清华大学，2011.07 - 2013.07 
 	- 合作导师：Prof. Michael Q Zhang（张奇伟教授）, 钱敏平教授
 	
-### 教育背景	
-- 理学博士，概率论与数理统计，数学科学学院，北京大学，2006.09 - 2011.07
-	- 导师：陈大岳教授
-	- 博士论文：“马氏过程在基于个体的随机演化博弈理论中的一些应用”
-- 理学学士，统计学，数学与统计学院，华中科技大学，2002.09 - 2006.07
-	
-### 荣誉奖项
-- 同德奖教金，2022
-- 厦门大学第十六届教学技能比赛（英文理工组）特等奖，2021
-- 田昭武交叉学科奖 一等奖，2021
-- 厦门大学第十一届教学技能比赛（翻转课堂组） 一等奖，2016
-- 中国建设银行奖教金，2017
-- 厦门大学第十届教学技能比赛（理科组）一等奖，2015
 
 ### 科研项目
 - 主持：国家自然科学基金 面上项目，01/2020-12/2023
