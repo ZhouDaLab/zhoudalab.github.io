@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-<font size=5><b>周&ensp;&ensp;达&emsp;</b><font size=3>博士</font></font>
-副教授，博导，厦门大学数学科学学院，厦门大学  
-邮件：zhouda@xmu.edu.cn	
+ZHOU Da, Associate Professor  
+School of Mathematical Sciences, Xiamen University, China.   
+Email：zhouda@xmu.edu.cn	
 
 ### Wechat Official QR code (课题组微信公众号)
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
