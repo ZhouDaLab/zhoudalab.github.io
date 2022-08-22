@@ -15,16 +15,18 @@ permalink: /
 
 ### Education	
 - 2006.09 - 2011.07 Ph.D. in Probability and statistics,  
-  School of Mathematical Sciences, Peking University, Advisor: Prof. Dayue Chen. 
+  School of Mathematical Sciences, Peking University, China. Advisor: Prof. Dayue Chen. 
 
 - 2002.09 - 2006.07 B.S. in Probability and statistics,  
-  Deparment of Mathematics, Huazhong University of Science and Technology.
+  Deparment of Mathematics, Huazhong University of Science and Technology, China.
 
-### 工作经历	
-- **副教授**，  数学科学学院 概率统计系，厦门大学，2017.11 - 
-- **助理教授**，数学科学学院 概率统计系，厦门大学，2013.07 - 2017.10 
-- **博士后**，  信息国家实验室（筹），清华大学，2011.07 - 2013.07 
-	- 合作导师：Prof. Michael Q Zhang（张奇伟教授）, 钱敏平教授
+### Professional Experience 	
+- 2017.11 - Present, **Asscociate Professor**,  
+  School of Mathematical Sciences, Xiamen University, China.  
+- 2013.07 - 2017.10, **Assistant Professor**,  
+  School of Mathematical Sciences, Xiamen University, China. 
+- 2011.07 - 2013.07, **Postdoctoral Researcher**,  
+  School of Information Science and Technology, Tsinghua University, China. Mentor: Prof. Michael Q Zhang.
 	
 
 ### 科研项目
