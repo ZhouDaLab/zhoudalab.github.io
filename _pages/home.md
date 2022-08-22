@@ -16,7 +16,7 @@ Email：zhouda@xmu.edu.cn
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
 
 ### Research Interests  
-- Applied Stochastic processes
+- Applied Stochastic Processes
 - Mathematical Biology, Computational Biology  
 - Machine Learning  
 - AI for Science
@@ -45,11 +45,22 @@ Email：zhouda@xmu.edu.cn
 ### Research Funding 
 - 2022/01 - 2022/12, **SGFJ Project** (国网福建省电力有限公司营销服务中心项目)，PI.  
 - 2020/01 - 2023/12, **NSFC Project** (国家自然科学基金面上项目), PI.  
-- 2015/01 - 2017/12, **NSFC Project** (国家自然科学基金青年项目)，PI.
+- 2015/01 - 2017/12, **NSFC Project** (国家自然科学基金青年项目), PI.
 - 2015/04 - 2018/04, **Fujian Provincial Scientific Foundation** (福建省自然科学基金), PI.
 - 2011/07 - 2013/07, **China Postdoctoral Science Foundation** (中国博士后科学基金), PI. 
 
-### 杂志审稿
+### Awards and Honors  
+- **Tong De Award (同德奖教金)**, 2022.
+- **Tian Zhaowu Prize in interdisciplinary science (田昭武学科交叉奖)**, 2021.  
+- **厦门大学教学技能比赛特等奖**, 2021.
+- 
+
+
+### Services  
+- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, 2017-.
+- **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2018-.
+- **Council Member**, Mathematical Biology Committee of Fujian Province, 2017-.
+
 &emsp;***Nature Communications***,  
 &emsp;***Physical Review Letters***,  
 &emsp;***Patterns***,  
