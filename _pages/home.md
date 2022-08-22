@@ -17,7 +17,7 @@ permalink: /
 - 2006.09 - 2011.07 Ph.D. in Probability and statistics,  
   School of Mathematical Sciences, Peking University, Advisor: Prof. Dayue Chen. 
 
-- 2002.09 - 2006.07 B.S. in Probability and statistics,
+- 2002.09 - 2006.07 B.S. in Probability and statistics,  
   Deparment of Mathematics, Huazhong University of Science and Technology.
 
 ### 工作经历	
