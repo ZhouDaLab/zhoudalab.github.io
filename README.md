@@ -7,7 +7,12 @@ This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to mak
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
 
 ## 如何更新内容
-如果是在github上更新，直接在网页上打开相应文件，点blame右边的按钮编辑，改好后点最下面的`Commit changes`即可。更新后打开网页链接 zhoudalab.github.io 按ctrl+F5刷新缓存后可以看到改动（有时可能有一些延迟）。  
+
+### 0. 两种更新内容的方式
+#### 0.1 用GitHub在线更新
+如果是在github上更新，直接在网页上打开相应文件，点blame右边的按钮编辑，改好后点最下面的`Commit changes`即可。更新后打开网页链接 zhoudalab.github.io 按ctrl+F5刷新缓存后可以看到改动（有大约5分钟的延迟）。  
+#### 0.2 在本地搭建环境
+Follow https://jekyllrb.com/docs/installation/ 中的步骤安装jekyll，然后配置好github的ssh key后clone这个repo，在本地修改后在同步到github上。
 ### 1. 更新主页，招生说明和文章
 - 主页为/_pages/home.md，  
 - 招生说明为/_pages/openings.md,  
