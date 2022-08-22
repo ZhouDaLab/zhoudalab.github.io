@@ -10,30 +10,31 @@ permalink: /
 副教授，博导，厦门大学数学科学学院，厦门大学  
 邮件：zhouda@xmu.edu.cn	
 
-### 课题组微信公众号
+### Wechat Official QR code (课题组微信公众号)
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
 
 ### Education	
-- 2006.09 - 2011.07 Ph.D. in Probability and statistics,  
+- 2006/09 - 2011/07 Ph.D. in Probability and statistics,  
   School of Mathematical Sciences, Peking University, China.  
   Advisor: [Prof. Dayue Chen](https://www.math.pku.edu.cn/teachers/dayue/indexE.htm). 
 
-- 2002.09 - 2006.07 B.S. in Probability and statistics,  
+- 2002/09 - 2006/07 B.S. in Probability and statistics,  
   Deparment of Mathematics, Huazhong University of Science and Technology, China.
 
 ### Professional Experience 	
-- 2017.11 - Present, **Asscociate Professor**,  
+- 2017/11 - Present, **Asscociate Professor**,  
   School of Mathematical Sciences, Xiamen University, China.  
-- 2018.09-2019.09, **Visiting Scientist**,  
-  Max Planck Institute for Evolutionary Biology, Germany. Collaborator: [Prof. Arne Traulsen](http://www.evolbio.mpg.de/~traulsen)
-- 2013.07 - 2017.10, **Assistant Professor**,  
+- 2018/09-2019/09, **Visiting Scientist**,  
+  Max Planck Institute for Evolutionary Biology, Germany.  
+  Collaborator: [Prof. Arne Traulsen](http://www.evolbio.mpg.de/~traulsen)
+- 2013/07 - 2017/10, **Assistant Professor**,  
   School of Mathematical Sciences, Xiamen University, China. 
-- 2011.07 - 2013.07, **Postdoctoral Researcher**,  
+- 2011/07 - 2013/07, **Postdoctoral Researcher**,  
   School of Information Science and Technology, Tsinghua University, China.  
   Mentor: [Prof. Michael Q Zhang](https://labs.utdallas.edu/zhanglab/).
 	
 
-### 科研项目
+### Research Funding 
 - 主持：国家自然科学基金 面上项目，01/2020-12/2023
 - 主持：国家自然科学基金 青年项目，01/2015-12/2017
 - 主持：国家留学基金委“2018国家公派高级研究学者、访问学者、博士后项目，09/2018-08/2019
