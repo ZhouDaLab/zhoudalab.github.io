@@ -8,7 +8,8 @@ permalink: /
 
 ZHOU Da, Associate Professor   
 School of Mathematical Sciences, Xiamen University, China.   
-Email：zhouda@xmu.edu.cn	 
+Email：zhouda@xmu.edu.cn	   
+
 (周达，厦门大学数学科学学院副教授，博士生导师，概率统计系主任)  
 
 
@@ -53,13 +54,14 @@ Email：zhouda@xmu.edu.cn
 - **Tong De Award (同德奖教金)**, 2022.
 - **Tian Zhaowu Prize in interdisciplinary science (田昭武学科交叉奖)**, 2021.  
 - **厦门大学教学技能比赛特等奖**, 2021.
-- 
-
 
 ### Services  
 - **Director**, Department of Probability and Statistics, School of Mathematical Sciences, 2017-.
-- **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2018-.
+- **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-.
 - **Council Member**, Mathematical Biology Committee of Fujian Province, 2017-.
+
+
+### Referee  
 
 &emsp;***Nature Communications***,  
 &emsp;***Physical Review Letters***,  
@@ -81,30 +83,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Communications in Theoretical Physics***,  
 &emsp;***ImmunoInformatics***,  
 &emsp;***Mathematical Biosciences***,  
-&emsp;***Frontiers in Oncology***,  
-&emsp;***Mathematics***.  
+&emsp;***Frontiers in Oncology***,
+&emsp;***...***
 
-### 学术交流（部分）
-- 中国工业与应用数学会 第二届数学生命科学大会（武汉大学），分组报告
-- SMB virtual meeting 2021，分组报告
-- 2021英国皇家化学会第二届青年学者论坛，圆桌嘉宾
-- 6th International Conference on Mathematical Biology，分组报告
-- 中国生物数学学会第八届学术年会，分组报告
-- 中国数学会2016年学术年会，分组报告
-- 第五届“山海论坛”，分组报告
-- 第十届全国概率统计会议，分组报告
 
-### 课程教学
-- **本科专业数学课**：概率论、非参数统计
-- **本科公共数学课**：自然科学中的数学II，概率统计I，概率统计II，微积分I，
-微积分III，微积分V
-- **研究生专业课**：随机分析，论文写作
-
-### 社会兼职
-- 厦门大学数学科学学院概率统计系副主任（主持工作），2018-
-- 中国工业与应用数学会数学生命科学专委会理事，2017-
-- 福建省生物数学会理事，2017- 
-
-### 课程项目
-- 2022年厦门大学一流课程 《概率论》（负责人）
-- 2021年本科高校教育教学改革研究项目（第一参与人）
