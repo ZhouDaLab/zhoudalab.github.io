@@ -1,5 +1,5 @@
 ---
-title: "ZhouDa Lab - Home"
+title: "ZHOU Da'S Lab - Home"
 layout: homelay
 excerpt: "ZhouDa Lab at Xiamen University."
 sitemap: false
