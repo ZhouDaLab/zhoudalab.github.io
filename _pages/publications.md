@@ -13,7 +13,7 @@ permalink: /publications/
 
 ### After joining XMU
 
--Ying Guo, Xinru He, Yuming Su, Yiheng Dai, Mingcan Xie, Shuangli Yang, Jiawei Chen, **Kun Wang**, **Da Zhou***, and Cheng Wang*. [Machine-Learning-Guided Discovery and Optimization of Additives in Preparing Cu Catalysts for CO2 Reduction.](https://pubs.acs.org/doi/abs/10.1021/jacs.1c00339) Journal of the American Chemical Society 143.15 (2021): 5755-5762. ([工作介绍](https://chem.xmu.edu.cn/info/1274/10577.htm))
+- Ying Guo, Xinru He, Yuming Su, Yiheng Dai, Mingcan Xie, Shuangli Yang, Jiawei Chen, **Kun Wang**, **Da Zhou***, and Cheng Wang*. [Machine-Learning-Guided Discovery and Optimization of Additives in Preparing Cu Catalysts for CO2 Reduction.](https://pubs.acs.org/doi/abs/10.1021/jacs.1c00339) Journal of the American Chemical Society 143.15 (2021): 5755-5762. ([工作介绍](https://chem.xmu.edu.cn/info/1274/10577.htm))
 - Xu, Chuanyu, et al. "Graph Attention Networks for New Product Sales Forecasting in E-Commerce." International Conference on Database Systems for Advanced Applications. Springer, Cham, (2021): 553-565.
 - Chen, Peican, et al. "Machine-learning-guided morphology engineering of nanoscale metal-organic frameworks." Matter 2.6 (2020): 1651-1666.
 - Chen, Hui et al. “MADE: A Computational Tool for Predicting Vaccine Effectiveness for the Influenza A(H3N2) Virus Adapted to Embryonated Eggs.” Vaccines, 10(6) (2022), 907.
