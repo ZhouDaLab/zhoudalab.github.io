@@ -3,7 +3,7 @@ title: "ZhouDa Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /Vacancies
+permalink: /vacancies
 ---
 
 - **博士、博士**：课题组每年招收应用数学专业（以生物数学、计算生物学为研究方向）或统计学方向（以机器学习、自然科学中的人工智能方法为研究方向）的博士生1-2名（实际名额以当年具体情况为准），硕士生<=3名，要对交叉学科研究有兴趣，具备扎实的数学基础和较强的编程能力，要有团队合作能力和较强的责任心。
