@@ -13,6 +13,12 @@ Email：zhouda@xmu.edu.cn
 ### Wechat Official QR code (课题组微信公众号)
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
 
+### Research Interests  
+- Applied Stochastic processes
+- Mathematical Biology, Computational Biology  
+- Machine Learning  
+- AI for Science
+
 ### Education	
 - 2006/09 - 2011/07 Ph.D. in Probability and statistics,  
   School of Mathematical Sciences, Peking University, China.  
@@ -35,11 +41,11 @@ Email：zhouda@xmu.edu.cn
 	
 
 ### Research Funding 
-- 主持：国家自然科学基金 面上项目，01/2020-12/2023
-- 主持：国家自然科学基金 青年项目，01/2015-12/2017
-- 主持：国家留学基金委“2018国家公派高级研究学者、访问学者、博士后项目，09/2018-08/2019
-- 主持：福建省自然科学基金 青年项目，04/2015-04/2018
-- 主持：中国博士后科学基金 二等资助，07/2011-07/2013
+- 2022/01 - 2022/12， **SGFJ Project** (国网福建省电力有限公司营销服务中心项目)，PI.  
+- 2020/01 - 2023/12, **NSFC Project** (国家自然科学基金面上项目), PI.  
+- 2015/01 - 2017/12, **NSFC Project** (国家自然科学基金青年项目)，PI.
+- 2015/04 - 2018/04, **Fujian Provincial Scientific Foundation** (福建省自然科学基金), PI.
+- 2011/07 - 2013/07, **China Postdoctoral Science Foundation** (中国博士后科学基金), PI. 
 
 ### 杂志审稿
 &emsp;***Nature Communications***,  
