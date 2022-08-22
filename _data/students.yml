@@ -1,5 +1,5 @@
 #- name:
-#  photo: rock.jpg
+#  photo: bio-photo.jpg
 #  info:
 #  email:
 #  number_educ:
@@ -9,126 +9,126 @@
 #  education4:
 
 - name: 张良
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: PhD student, started Sep 2020
   email: xx
   number_educ: 1
   education1: xxx
 
 - name: 王玉曼
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: PhD student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
 
 - name: 陈少卿
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: PhD student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 王琨
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: PhD student, started Sep 2022
   email: kunwang034@gmail.com
   number_educ: 1
   education1: xxx
 
 - name: 关企
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: PhD student, started Sep 2022
   email: xx
   number_educ: 1
   education1: xxx
 
 - name: 陈诞蔚
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2020
   email: xx
   number_educ: 1
   education1: xxx
 
 - name: 徐晓宇
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2020
   email: xx
   number_educ: 1
   education1: xxx
 
 - name: 张瑜
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2020
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 毛宇彤
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2020
   email: xx
   number_educ: 1
   education1: xxx
 
 - name: 朱应俊
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 郭欣宸
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 王文彬
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 许卓莹
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 陈泽宸
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 刘稼兴
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 王恺
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2022
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 刘薇
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2022
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 苏杰彬
-  photo: rock.jpg
+  photo: bio-photo.jpg
   info: Master student, started Sep 2022
   email: xx
   number_educ: 1

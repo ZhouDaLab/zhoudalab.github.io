@@ -1,0 +1,101 @@
+#- name:
+#  photo: bio-photo.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: 徐程玉洁
+  photo: bio-photo.jpg
+  info: Graduate student, 2019-2022
+  email: xx
+  number_educ: 1
+  education1: Chengyujie Xu obtained her M.S. from Xiamen University in 2022. She is working on xxx.
+
+- name: 王琨
+  photo: bio-photo.jpg
+  info: Graduate student, 2019-2022
+  email: xx
+  number_educ: 1
+  education1: Kun Wang obtained his M.S. from Xiamen University in 2022. He is working on xxx.
+  
+- name: 王玉曼
+  photo: bio-photo.jpg
+  info: Graduate student, 2018-2021
+  email: xx
+  number_educ: 1
+  education1: Yuman Wang obtained her M.S. from Xiamen University in 2021. She is working on xxx.
+  
+
+- name: 郑溢颖
+  photo: bio-photo.jpg
+  info: Graduate student, 2018-2021
+  email: xx
+  number_educ: 1
+  education1: Yiying Zheng obtained her M.S. from Xiamen University in 2021. She is working on xxx.
+
+- name: 毕艺龙
+  photo: bio-photo.jpg
+  info: Graduate student, 2018-2021
+  email: xx
+  number_educ: 1
+  education1: Yilong Bi obtained his M.S. from Xiamen University in 2021. He is working on xxx.
+
+- name: 吴智杰
+  photo: bio-photo.jpg
+  info: Graduate student, 2018-2021
+  email: xx
+  number_educ: 1
+  education1: Zhijie Wu obtained his M.S. from Xiamen University in 2021. He is working on xxx.
+
+- name: 傅莉莉
+  photo: bio-photo.jpg
+  info: Graduate student, 2017-2020
+  email: xx
+  number_educ: 1
+  education1: Lili Fu obtained her M.S. from Xiamen University in 2020. She is working on xxx.
+
+- name: 汪骏秋
+  photo: bio-photo.jpg
+  info: Graduate student, 2016-2019
+  email: xx
+  number_educ: 1
+  education1: Junqiu Wang obtained his M.S. from Xiamen University in 2019. He is working on xxx.
+  
+- name: 徐传宇
+  photo: bio-photo.jpg
+  info: Graduate student, 2016-2019
+  email: xx
+  number_educ: 1
+  education1: Chuanyu Xu obtained his M.S. from Xiamen University in 2019. He is working on xxx.  
+  
+- name: 唐泽昱
+  photo: bio-photo.jpg
+  info: Graduate student, 2016-2019
+  email: xx
+  number_educ: 1
+  education1: Zeyu Tang obtained his M.S. from Xiamen University in 2019. He is working on xxx.  
+  
+- name: 吴灵珊
+  photo: bio-photo.jpg
+  info: Graduate student, 2015-2018
+  email: xx
+  number_educ: 1
+  education1: Lingshan Wu obtained her M.S. from Xiamen University in 2018. She is working on xxx.  
+  
+- name: 毛善骏
+  photo: bio-photo.jpg
+  info: Graduate student, 2014-2017
+  email: xx
+  number_educ: 1
+  education1: Shanjun Mao obtained his M.S. from Xiamen University in 2017. He is working on xxx.  
+  
+- name: 王鹏鹏
+  photo: bio-photo.jpg
+  info: Graduate student, 2014-2017
+  email: xx
+  number_educ: 1
+  education1: Pengpeng Wang obtained his M.S. from Xiamen University in 2017. He is working on xxx.    

@@ -20,8 +20,10 @@ Follow https://jekyllrb.com/docs/installation/ 中的步骤安装jekyll，然后
 - 直接修改即可  
 ### 2. 更新课题组成员和课题组动态
 - 课题组成员为/_data/students.yml
+- 毕业生信息为/_data/graduates.yml
 - 课题组动态为/_data/news.yml
 - 复制其中一条然后修改内容，注意格式一致
+- 注：yml文件中的email在网页中不显示，可以用education1, education2...这些加一些信息，number_educ后面的数字要和下面education的行数一致.
 ### 3. 修改网页的header和footer
 - 分别位于 /_includes/header.html 和 /_includes/footer.html
 ### 4. 修改主页右侧的 See all news 的链接
