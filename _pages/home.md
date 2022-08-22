@@ -14,7 +14,7 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
 
 ### Education	
-- 2006.09 - 2011.07 Ph.D. in Probability and statistics,
+- 2006.09 - 2011.07 Ph.D. in Probability and statistics,  
   School of Mathematical Sciences, Peking University, Advisor: Prof. Dayue Chen. 
 
 - 2002.09 - 2006.07 B.S. in Probability and statistics,
