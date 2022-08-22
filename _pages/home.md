@@ -10,7 +10,8 @@ ZHOU Da, Associate Professor
 School of Mathematical Sciences, Xiamen University, China.   
 Email：zhouda@xmu.edu.cn	   
 
-(周达，厦门大学数学科学学院副教授，博士生导师，概率统计系主任)  
+周达，厦门大学数学科学学院副教授，博士生导师，  
+厦门大学数学科学学院概率统计系主任
 
 
 ### Wechat Official QR code (课题组微信公众号)
