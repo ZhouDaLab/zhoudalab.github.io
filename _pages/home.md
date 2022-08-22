@@ -24,11 +24,11 @@ Email：zhouda@xmu.edu.cn
 - AI for Science
 
 ### Education	
-- 2006/09 - 2011/07 Ph.D. in Probability and statistics,  
+- 2006/09 - 2011/07 Ph.D. in Probability and Statistics,  
   School of Mathematical Sciences, Peking University, China.  
   Advisor: [Prof. Dayue Chen](https://www.math.pku.edu.cn/teachers/dayue/indexE.htm). 
 
-- 2002/09 - 2006/07 B.S. in Probability and statistics,  
+- 2002/09 - 2006/07 B.S. in Probability and Statistics,  
   Deparment of Mathematics, Huazhong University of Science and Technology, China.
 
 ### Professional Experience 	
