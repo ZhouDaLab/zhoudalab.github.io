@@ -59,7 +59,7 @@ Email：zhouda@xmu.edu.cn
 ### Services  
 - **Director**, Department of Probability and Statistics, School of Mathematical Sciences, 2017-.
 - **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-.
-- **Council Member**, Mathematical Biology Committee of Fujian Province, 2017-.
+- **Council Member**, Fujian Society for Mathematical Biology, 2017-.
 
 
 ### Referee  
