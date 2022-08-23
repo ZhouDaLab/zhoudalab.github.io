@@ -9,7 +9,7 @@
 #  education4:
 
 - name: 张良
-  photo: bio-photo.jpg
+  photo: zhangliang.jpg
   info: PhD student, started Sep 2020
   email: xx
   number_educ: 1
@@ -23,21 +23,21 @@
   education1: xxx
 
 - name: 陈少卿
-  photo: bio-photo.jpg
+  photo: chenshaoqing.jpg
   info: PhD student, started Sep 2021
   email: xx
   number_educ: 1
   education1: xxx
   
 - name: 王琨
-  photo: bio-photo.jpg
+  photo: wangkun.jpg
   info: PhD student, started Sep 2022
   email: kunwang034@gmail.com
   number_educ: 1
   education1: xxx
 
 - name: 关企
-  photo: bio-photo.jpg
+  photo: guanqi.jpg
   info: PhD student, started Sep 2022
   email: xx
   number_educ: 1
@@ -114,7 +114,7 @@
   education1: xxx
   
 - name: 王恺
-  photo: bio-photo.jpg
+  photo: wangkai.jpg
   info: Master student, started Sep 2022
   email: xx
   number_educ: 1
