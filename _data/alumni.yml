@@ -8,26 +8,33 @@
 #  education3:
 #  education4:
 
-- name: 徐程玉洁
+- name: Chengyujie Xu (徐程玉洁)
   photo: bio-photo.jpg
   info: Master, 2019-2022
   email: xx
   number_educ: 1
-  education1: Chengyujie Xu obtained her M.S. from Xiamen University in 2022. She is working on xxx.
+  education1: Tencent (腾讯).
 
-- name: 王琨
+- name: Kun Wang (王琨)
   photo: bio-photo.jpg
   info: Master, 2019-2022
   email: xx
   number_educ: 1
-  education1: Kun Wang obtained his M.S. from Xiamen University in 2022. He is working on xxx.
+  education1: Continue for Ph.D at Xiamen University, jointly supvervised by Dr. Zheng Hu at SIAT.
   
-- name: 王玉曼
+  - name: Yinlin Qiu (邱崟琳)
+  photo: bio-photo.jpg
+  info: Master, 2019-2022
+  email: xx
+  number_educ: 1
+  education1: Xiamen No. 1 Middle School （厦门一中）
+  
+- name: Yuman Wang (王玉曼)
   photo: bio-photo.jpg
   info: Master, 2018-2021
   email: xx
   number_educ: 1
-  education1: Yuman Wang obtained her M.S. from Xiamen University in 2021. She is working on xxx.
+  education1: Continue for Ph.D at Xiamen University.
   
 
 - name: 郑溢颖
