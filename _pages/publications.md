@@ -30,6 +30,6 @@ permalink: /publications/
 
 ### Before joining XMU
 - **Da Zhou**, Dingming Wu, Zhe Li, Minping Qian, Michael Q Zhang\*. Population dynamics of cancer cells with cell state conversions. *Quantitative biology* 1.3 (2013): 201-208.
-- **Da Zhou\*** and Hong Qian*. Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics. *Physical Review E* 84.3 (2011): 031907.
+- **Da Zhou\*** and Hong Qian\*. Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics. *Physical Review E* 84.3 (2011): 031907.
 - **Da Zhou\***, Bin Wu, and Hao Ge. Evolutionary stability and quasi-stationary strategy in stochastic evolutionary game dynamics. *Journal of Theoretical Biology* 264.3 (2010): 874-881.
 
