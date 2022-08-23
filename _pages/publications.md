@@ -23,7 +23,7 @@ permalink: /publications/
 - **Da Zhou\***, **Yue Luo(2015级本科)**, David Dingli, Arne Traulsen\*. [The invasion of de-differentiating cancer cells into hierarchical tissues.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007167) *PLoS Computational Biology* 15.7 (2019): e1007167.
 - **Da Zhou**, **Shanjun Mao(2014级硕士)**, Jing Cheng, Kaiyi Chen, Xiaofang Cao, Jie Hu\*. [A Bayesian statistical analysis of stochastic phenotypic plasticity model of cancer cells.](https://www.sciencedirect.com/science/article/abs/pii/S0022519318302789) *Journal of Theoretical Biology* 454 (2018): 70-79.
 - **Chuanyu Xu(2016级硕士，福建省优秀学术硕士论文)**, Dong Wang, Zhihong Zhang\*, Beizhan Wang, **Da Zhou**, Guijun Ren, Lu Bai, Lixin Cui, Edwin R Hancock. [Depth-based subgraph convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/8545090/), *ICPR*, 2018. (Best Scientific paper, 最佳科学论文奖)
-- Wu, Bin, et al. "Control of epidemics via social partnership adjustment." Physical Review E 94.6 (2016): 062314.
+- Bin Wu, **Shanjun Mao(2014级硕士)**, Jiazeng Wang, **Da Zhou\***. [ontrol of epidemics via social partnership adjustment.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.062314) *Physical Review E* 94.6 (2016): 062314.
 - Chen, Xiufang, et al. The overshoot and phenotypic equilibrium in characterizing cancer dynamics of reversible phenotypic plasticity. *Journal of Theoretical Biology* 390 (2016): 40-49.
 - Niu, Yuanling, Yue Wang, and Da Zhou. The phenotypic equilibrium of cancer cells: From average-level stability to path-wise convergence. *Journal of Theoretical Biology* 386 (2015): 7-17.
 - Zhou, Da, Yue Wang, and Bin Wu. A multi-phenotypic cancer model with cell plasticity. *Journal of theoretical biology* 357 (2014): 35-45.
