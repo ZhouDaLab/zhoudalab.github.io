@@ -7,11 +7,11 @@ permalink: /publications/
 ---
 
 
-## [Full Publications](https://scholar.google.com/citations?user=i9YneRcAAAAJ&hl=zh-CN) 
+## [Full Publications (Google Scholar)](https://scholar.google.com/citations?user=i9YneRcAAAAJ&hl=zh-CN) 
 
 ## Selected Publications 
 
-### After joining XMU
+### After joining XMU (2013/07-)
 
 - Hui Chen\#, **Junqiu Wang\#(2016级硕士)**, Yunsong Liu, Ivy Quek Ee Ling, Chih Chuan Shih, Dafei Wu, Zhiyan Fu, Raphael Tze Chuen Lee, Miao Xu, Vincent T. Chow, Sebastian Maurer-Stroh, **Da Zhou\***, Jianjun Liu\*, Weiwei Zhai\*. [MADE: A Computational Tool for Predicting Vaccine Effectiveness for the Influenza A(H3N2) Virus Adapted to Embryonated Eggs.](https://www.mdpi.com/2076-393X/10/6/907) *Vaccines*, 10(6) (2022), 907.
 - **Yuman Wang(2018级硕士，2021级博士)**, **Jintong Zhao(2018级本科)**, Hye Jin Park, **Da Zhou\***. [The effect of dedifferentiation on noise propagation in cellular hierarchy.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054409) *Physical Review E*, 105 (2022), 054409.
