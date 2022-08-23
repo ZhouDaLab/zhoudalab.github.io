@@ -62,7 +62,6 @@ Email：zhouda@xmu.edu.cn
 - **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-.
 - **Council Member**, Fujian Society for Mathematical Biology, 2017-.
 
-
 ### Referee  
 
 &emsp;***Nature Communications***,  
@@ -87,4 +86,12 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Mathematical Biosciences***,  
 &emsp;***Frontiers in Oncology***,
 &emsp;***...***
+
+### Teaching 
+- Probability (概率论)
+- Nonparameteric statistics (非参数统计) 
+- Stochastic Calculas (随机分析)
+- Mathematics in natural sciences (自然科学中的数学)
+- Calculus (微积分)
+- Probability and Statistics (概率统计公共课)
 
