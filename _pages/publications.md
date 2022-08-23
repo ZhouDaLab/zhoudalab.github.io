@@ -24,13 +24,12 @@ permalink: /publications/
 - **Da Zhou**, **Shanjun Mao(2014级硕士)**, Jing Cheng, Kaiyi Chen, Xiaofang Cao, Jie Hu\*. [A Bayesian statistical analysis of stochastic phenotypic plasticity model of cancer cells.](https://www.sciencedirect.com/science/article/abs/pii/S0022519318302789) *Journal of Theoretical Biology* 454 (2018): 70-79.
 - **Chuanyu Xu(2016级硕士，福建省优秀学术硕士论文)**, Dong Wang, Zhihong Zhang\*, Beizhan Wang, **Da Zhou**, Guijun Ren, Lu Bai, Lixin Cui, Edwin R Hancock. [Depth-based subgraph convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/8545090/), *ICPR*, 2018. (Best Scientific paper, 最佳科学论文奖)
 - Bin Wu, **Shanjun Mao(2014级硕士)**, Jiazeng Wang, **Da Zhou\***. [ontrol of epidemics via social partnership adjustment.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.062314) *Physical Review E* 94.6 (2016): 062314.
-- Chen, Xiufang, et al. The overshoot and phenotypic equilibrium in characterizing cancer dynamics of reversible phenotypic plasticity. *Journal of Theoretical Biology* 390 (2016): 40-49.
-- Niu, Yuanling, Yue Wang, and Da Zhou. The phenotypic equilibrium of cancer cells: From average-level stability to path-wise convergence. *Journal of Theoretical Biology* 386 (2015): 7-17.
-- Zhou, Da, Yue Wang, and Bin Wu. A multi-phenotypic cancer model with cell plasticity. *Journal of theoretical biology* 357 (2014): 35-45.
-
+- Xiufang Chen, Yue Wang, Tianquan Feng, Ming Yi, Xingan Zhang\*, **Da Zhou\***. [The overshoot and phenotypic equilibrium in characterizing cancer dynamics of reversible phenotypic plasticity.](https://www.sciencedirect.com/science/article/abs/pii/S0022519315005512) *Journal of Theoretical Biology* 390 (2016): 40-49.
+- Yuanling Niu, Yue Wang, and **Da Zhou\***. [The phenotypic equilibrium of cancer cells: From average-level stability to path-wise convergence.](https://www.sciencedirect.com/science/article/abs/pii/S0022519315004300) *Journal of Theoretical Biology* 386 (2015): 7-17.
+- **Da Zhou**, Yue Wang, Bin Wu. [A multi-phenotypic cancer model with cell plasticity.](https://www.sciencedirect.com/science/article/abs/pii/S0022519314002732) *Journal of theoretical biology* 357 (2014): 35-45.
 
 ### Before joining XMU
-- **Da Zhou**, Dingming Wu, Zhe Li, Minping Qian, Michael Q Zhang*. Population dynamics of cancer cells with cell state conversions. Quantitative biology 1.3 (2013): 201-208.
-- **Da Zhou*** and Hong Qian*. Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics. Physical Review E 84.3 (2011): 031907.
-- **Da Zhou***, Bin Wu, and Hao Ge. Evolutionary stability and quasi-stationary strategy in stochastic evolutionary game dynamics. Journal of Theoretical Biology 264.3 (2010): 874-881.
+- **Da Zhou**, Dingming Wu, Zhe Li, Minping Qian, Michael Q Zhang\*. Population dynamics of cancer cells with cell state conversions. *Quantitative biology* 1.3 (2013): 201-208.
+- **Da Zhou\*** and Hong Qian*. Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics. *Physical Review E* 84.3 (2011): 031907.
+- **Da Zhou\***, Bin Wu, and Hao Ge. Evolutionary stability and quasi-stationary strategy in stochastic evolutionary game dynamics. *Journal of Theoretical Biology* 264.3 (2010): 874-881.
 
