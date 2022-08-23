@@ -8,12 +8,12 @@
 #  education3:
 #  education4:
 
-- name: 张良
+- name: Liang Zhang (张良)
   photo: zhangliang.jpg
-  info: PhD student, started Sep 2020
+  info: PhD student (2020-)
   email: xx
   number_educ: 1
-  education1: xxx
+  education1: 
 
 - name: 王玉曼
   photo: wangyuman.jpg
