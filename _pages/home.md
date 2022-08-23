@@ -88,10 +88,11 @@ Email：zhouda@xmu.edu.cn
 &emsp;***...***
 
 ### Teaching 
-- Probability (概率论)
+- Probability (概率论，厦门大学校级一流课程)
 - Nonparameteric statistics (非参数统计) 
 - Stochastic Calculas (随机分析)
-- Mathematics in natural sciences (自然科学中的数学)
+- Mathematics in natural sciences (自然科学中的数学，福建省教改项目)
 - Calculus (微积分)
 - Probability and Statistics (概率统计公共课)
+- Academic writing (论文写作)
 
