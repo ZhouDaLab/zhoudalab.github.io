@@ -1,8 +1,8 @@
-I"22<h1 id="group-members">Group Members</h1>
+I"�*<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for new PhD students and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
 
-<h2 id="students">Students</h2>
+<h2 id="graduate-students">Graduate Students</h2>
 
 <div class="row">
 
@@ -28,7 +28,7 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/wangyuman.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>王玉曼</h4>
     <p><i>PhD student, started Sep 2021 <!--<br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
@@ -418,14 +418,13 @@
 
 </div>
 
-<h2 id="graduate-students">Graduate Students</h2>
+<h2 id="alumni">Alumni</h2>
 
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>徐程玉洁</h4>
-    <p><i>Graduate student, 2019-2022 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2019-2022 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -438,15 +437,12 @@
 
   
 
-  
-
   </ul>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>王琨</h4>
-    <p><i>Graduate student, 2019-2022 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2019-2022 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -459,8 +455,6 @@
 
   
 
-  
-
   </ul>
   </div>
 
@@ -469,9 +463,8 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>王玉曼</h4>
-    <p><i>Graduate student, 2018-2021 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2018-2021 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -484,15 +477,12 @@
 
   
 
-  
-
   </ul>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>郑溢颖</h4>
-    <p><i>Graduate student, 2018-2021 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2018-2021 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -505,8 +495,6 @@
 
   
 
-  
-
   </ul>
   </div>
 
@@ -515,9 +503,8 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>毕艺龙</h4>
-    <p><i>Graduate student, 2018-2021 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2018-2021 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -530,15 +517,12 @@
 
   
 
-  
-
   </ul>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>吴智杰</h4>
-    <p><i>Graduate student, 2018-2021 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2018-2021 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -551,8 +535,6 @@
 
   
 
-  
-
   </ul>
   </div>
 
@@ -561,9 +543,8 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>傅莉莉</h4>
-    <p><i>Graduate student, 2017-2020 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2017-2020 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -576,15 +557,12 @@
 
   
 
-  
-
   </ul>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>汪骏秋</h4>
-    <p><i>Graduate student, 2016-2019 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2016-2019 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -597,8 +575,6 @@
 
   
 
-  
-
   </ul>
   </div>
 
@@ -607,9 +583,8 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>徐传宇</h4>
-    <p><i>Graduate student, 2016-2019 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2016-2019 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -622,15 +597,12 @@
 
   
 
-  
-
   </ul>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>唐泽昱</h4>
-    <p><i>Graduate student, 2016-2019 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2016-2019 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -643,8 +615,6 @@
 
   
 
-  
-
   </ul>
   </div>
 
@@ -653,9 +623,8 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>吴灵珊</h4>
-    <p><i>Graduate student, 2015-2018 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2015-2018 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -668,21 +637,16 @@
 
   
 
-  
-
   </ul>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>毛善骏</h4>
-    <p><i>Graduate student, 2014-2017 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2014-2017 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
   <li> Shanjun Mao obtained his M.S. from Xiamen University in 2017. He is working on xxx. </li>
-  
-
   
 
   
@@ -699,15 +663,12 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>王鹏鹏</h4>
-    <p><i>Graduate student, 2014-2017 <!--<br>email: <xx></i> --></i></p>
+    <p><i>Master, 2014-2017 <!-- <br>email: <xx></i> --></i></p>
     <ul style="overflow: hidden">
 
   
   <li> Pengpeng Wang obtained his M.S. from Xiamen University in 2017. He is working on xxx. </li>
-  
-
   
 
   
