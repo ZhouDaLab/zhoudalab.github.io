@@ -58,7 +58,7 @@ Email：zhouda@xmu.edu.cn
 - **厦门大学教学技能比赛特等奖**, 2021.
 
 ### Services  
-- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, 2017-.
+- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-.
 - **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-.
 - **Council Member**, Fujian Society for Mathematical Biology, 2017-.
 
