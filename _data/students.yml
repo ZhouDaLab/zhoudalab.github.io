@@ -44,14 +44,14 @@
   education1: Bioinformatics
 
 - name: Danwei Chen (陈诞蔚)
-  photo: bio-photo.jpg
+  photo: chendanwei.jpg
   info: Master student (2020-)
   email: xx
   number_educ: 1
   education1: Machine learning
 
 - name: Xiaoyu Xu (徐晓宇)
-  photo: bio-photo.jpg
+  photo: xuxiaoyu.jpg
   info: Master student (2020-)
   email: xx
   number_educ: 1
@@ -65,14 +65,14 @@
   education1: Interpretable machine learning
   
 - name: Yutong Mao (毛宇彤)
-  photo: bio-photo.jpg
+  photo: maoyutong.jpg
   info: Master student,(2020-)
   email: xx
   number_educ: 1
   education1: Modeling metabolic networks
 
 - name: Yingjun Zhu (朱应俊)
-  photo: bio-photo.jpg
+  photo: zhuyingjun.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
@@ -86,21 +86,21 @@
   education1: Modeling metabolic networks
   
 - name: Wenbin Wang (王文彬)
-  photo: bio-photo.jpg
+  photo: wangwenbin.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
   education1: Next-generation Wearable Technology
   
 - name: Zhuoying Xu (许卓莹)
-  photo: bio-photo.jpg
+  photo: xuzhuoying.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
   education1: Interpretable machine learning 
   
 - name: Zechen Chen (陈泽宸)
-  photo: bio-photo.jpg
+  photo: chenzechen.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
@@ -121,7 +121,7 @@
   education1: Next-generation Wearable Technology
   
 - name: Wei Liu (刘薇)
-  photo: bio-photo.jpg
+  photo: liuwei.jpg
   info: Master student (2022-)
   email: xx
   number_educ: 1
