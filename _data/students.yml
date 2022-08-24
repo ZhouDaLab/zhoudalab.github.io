@@ -41,7 +41,7 @@
   info: PhD student, (2022-)
   email: xx
   number_educ: 1
-  education1: Bioinformatics (joint supervised by Prof. Jie Hu)
+  education1: Bioinformatics (jointly supervised by Prof. Jie Hu)
 
 - name: Danwei Chen (陈诞蔚)
   photo: chendanwei.jpg
@@ -69,7 +69,7 @@
   info: Master student,(2020-)
   email: xx
   number_educ: 1
-  education1: Modeling metabolic networks
+  education1: Modeling metabolic networks (jointly supervised by Prof. Xian Chen)
 
 - name: Yingjun Zhu (朱应俊)
   photo: zhuyingjun.jpg
@@ -97,21 +97,21 @@
   info: Master student (2021-)
   email: xx
   number_educ: 1
-  education1: Interpretable machine learning 
+  education1: Interpretable machine learning (jointly supervised by Prof. Xian Chen)
   
 - name: Zechen Chen (陈泽宸)
   photo: chenzechen.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
-  education1: Clustering 
+  education1: Clustering (jointly supervised by Prof. Wei Liang)
   
 - name: Jiaxing Liu (刘稼兴)
   photo: bio-photo.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
-  education1: AI for chemistry
+  education1: AI for chemistry (jointly supervised by Prof. Cheng Wang)
   
 - name: Kai Wang (王恺)
   photo: wangkai.jpg
