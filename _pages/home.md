@@ -84,8 +84,8 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Communications in Theoretical Physics***,  
 &emsp;***ImmunoInformatics***,  
 &emsp;***Mathematical Biosciences***,  
-&emsp;***Frontiers in Oncology***,
-&emsp;***Mathematics***,
+&emsp;***Frontiers in Oncology***,  
+&emsp;***Mathematics***,  
 &emsp;***...***
 
 ### Teaching 
