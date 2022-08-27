@@ -37,7 +37,7 @@ Email：zhouda@xmu.edu.cn
   School of Mathematical Sciences, Xiamen University, China.  
 - 2018/09-2019/09, **Visiting Scientist**,  
   Max Planck Institute for Evolutionary Biology, Germany.  
-  Collaborator: [Prof. Arne Traulsen](http://www.evolbio.mpg.de/~traulsen)
+  Collaborator: [Prof. Arne Traulsen](http://www.evolbio.mpg.de/~traulsen).
 - 2013/07 - 2017/10, **Assistant Professor**,  
   School of Mathematical Sciences, Xiamen University, China. 
 - 2011/07 - 2013/07, **Postdoctoral Researcher**,  
