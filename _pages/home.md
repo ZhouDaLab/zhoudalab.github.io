@@ -70,6 +70,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***PLoS Computational Biology***,  
 &emsp;***Physical Review E***,  
 &emsp;***Journal of Theoretical Biology***,  
+&emsp;***Journal of Computational Biology***,  
 &emsp;***Discrete and Continuous Dynamical Systems—B***,  
 &emsp;***Entropy***,  
 &emsp;***Chaos***,  
