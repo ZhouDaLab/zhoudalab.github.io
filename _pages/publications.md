@@ -14,6 +14,7 @@ permalink: /publications/
 ### After joining XMU (2013/07-)
 
 - **Kun Wang(2019级硕士，2022级博士)**, Liangzhen Hou, Zhaolian Lu, Xin Wang, Zhike Zi, Weiwei Zhai, Xionglei He, Christina Curtis, **Da Zhou\***, Zheng Hu\*. Cell division history encodes directional information of fate transitions. Submitted.
+- **Liang Zhang(2020级博士)**, Longqiang Yi, Yu Liu, Cheng wang, **Da Zhou\***. [Motif Entropy Graph Kernel], *Pattern Recognition*. Accepted. 
 - Yuming Su\#, Yiheng Dai\#, Yifan Zeng, Caiyun Wei, Yangtao Chen, Fuchun Ge, Peikun Zheng, **Da Zhou\***, Pavlo O Dral\*, Cheng Wang\*. [Interpretable Machine Learning of Two-Photon Absorption.](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204902) *Advanced Science*, 10(8) (2023): 2204902.
 - Lili Jiang\#, **Sirong Chen\#(2023级硕士)**, Yuanhui Wu,  **Da Zhou\***,  Lihua Duan\*.  [Prediction of coronary heart disease in gout patients using machine learning models.](http://www.aimspress.com/article/doi/10.3934/mbe.2023212) *Mathematical Biosciences and Engineering*, 20(3) (2023): 4574-4591.
 - Jizhong Zhao\#, **Danwei Chen\#(2020级硕士)**, Li Zhao, Yating Shi, Shihui Guo, Zhongguan Zhu, Jiarong Liu, Wanjing Li, Wentao Lei, Haixia Chen, Yi Chen, **Da Zhou**, Ronghui Wu\*, Wenxi Guo\*. [Self-powered speech recognition system for deaf users.](https://www.sciencedirect.com/science/article/pii/S2666386422004799) *Cell Reports Physical Science*, 3 (2022), 101168.
