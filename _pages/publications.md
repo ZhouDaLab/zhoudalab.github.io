@@ -11,10 +11,8 @@ permalink: /publications/
 
 ## Selected Publications 
 
-### After joining XMU (2013/07-)
-
 - **Kun Wang(2019级硕士，2022级博士)**, Liangzhen Hou, Zhaolian Lu, Xin Wang, Zhike Zi, Weiwei Zhai, Xionglei He, Christina Curtis, **Da Zhou\***, Zheng Hu\*. Cell division history encodes directional information of fate transitions. Submitted.
-- **Liang Zhang(2020级博士)**, Longqiang Yi, Yu Liu, Cheng wang, **Da Zhou\***. [Motif Entropy Graph Kernel], *Pattern Recognition*. Accepted. 
+- **Liang Zhang(2020级博士)**, Longqiang Yi, Yu Liu, Cheng wang, **Da Zhou\***. [Motif Entropy Graph Kernel.](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002443) *Pattern Recognition*, 140 (2023): 109544. 
 - Yuming Su\#, Yiheng Dai\#, Yifan Zeng, Caiyun Wei, Yangtao Chen, Fuchun Ge, Peikun Zheng, **Da Zhou\***, Pavlo O Dral\*, Cheng Wang\*. [Interpretable Machine Learning of Two-Photon Absorption.](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204902) *Advanced Science*, 10(8) (2023): 2204902.
 - Lili Jiang\#, **Sirong Chen\#(2023级硕士)**, Yuanhui Wu,  **Da Zhou\***,  Lihua Duan\*.  [Prediction of coronary heart disease in gout patients using machine learning models.](http://www.aimspress.com/article/doi/10.3934/mbe.2023212) *Mathematical Biosciences and Engineering*, 20(3) (2023): 4574-4591.
 - Jizhong Zhao\#, **Danwei Chen\#(2020级硕士)**, Li Zhao, Yating Shi, Shihui Guo, Zhongguan Zhu, Jiarong Liu, Wanjing Li, Wentao Lei, Haixia Chen, Yi Chen, **Da Zhou**, Ronghui Wu\*, Wenxi Guo\*. [Self-powered speech recognition system for deaf users.](https://www.sciencedirect.com/science/article/pii/S2666386422004799) *Cell Reports Physical Science*, 3 (2022), 101168.
@@ -32,9 +30,7 @@ permalink: /publications/
 - Xiufang Chen, Yue Wang, Tianquan Feng, Ming Yi, Xingan Zhang\*, **Da Zhou\***. [The overshoot and phenotypic equilibrium in characterizing cancer dynamics of reversible phenotypic plasticity.](https://www.sciencedirect.com/science/article/abs/pii/S0022519315005512) *Journal of Theoretical Biology* 390 (2016): 40-49.
 - Yuanling Niu, Yue Wang, and **Da Zhou\***. [The phenotypic equilibrium of cancer cells: From average-level stability to path-wise convergence.](https://www.sciencedirect.com/science/article/abs/pii/S0022519315004300) *Journal of Theoretical Biology* 386 (2015): 7-17.
 - **Da Zhou**, Yue Wang, Bin Wu. [A multi-phenotypic cancer model with cell plasticity.](https://www.sciencedirect.com/science/article/abs/pii/S0022519314002732) *Journal of Theoretical Biology* 357 (2014): 35-45.
-
-### Before joining XMU
-- **Da Zhou**, Dingming Wu, Zhe Li, Minping Qian, Michael Q Zhang\*. Population dynamics of cancer cells with cell state conversions. *Quantitative biology* 1.3 (2013): 201-208.
-- **Da Zhou\*** and Hong Qian\*. Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics. *Physical Review E* 84.3 (2011): 031907.
-- **Da Zhou\***, Bin Wu, and Hao Ge. Evolutionary stability and quasi-stationary strategy in stochastic evolutionary game dynamics. *Journal of Theoretical Biology* 264.3 (2010): 874-881.
+- **Da Zhou**, Dingming Wu, Zhe Li, Minping Qian, Michael Q Zhang\*. [Population dynamics of cancer cells with cell state conversions.](https://link.springer.com/article/10.1007/s40484-013-0014-2) *Quantitative biology* 1.3 (2013): 201-208.
+- **Da Zhou\*** and Hong Qian\*. [Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.031907) *Physical Review E* 84.3 (2011): 031907.
+- **Da Zhou\***, Bin Wu, and Hao Ge. [Evolutionary stability and quasi-stationary strategy in stochastic evolutionary game dynamics.](https://www.sciencedirect.com/science/article/pii/S0022519310001414) *Journal of Theoretical Biology* 264.3 (2010): 874-881.
 
