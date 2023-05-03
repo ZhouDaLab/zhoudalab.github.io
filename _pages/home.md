@@ -70,6 +70,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Patterns***,  
 &emsp;***PLoS Computational Biology***,  
 &emsp;***Physical Review E***,  
+&emsp;***npj Systems Biology***,  
 &emsp;***Journal of Theoretical Biology***,  
 &emsp;***Journal of Computational Biology***,  
 &emsp;***Discrete and Continuous Dynamical Systems—B***,  
