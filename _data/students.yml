@@ -43,34 +43,6 @@
   number_educ: 1
   education1: Bioinformatics (jointly supervised by Prof. Jie Hu)
 
-- name: Danwei Chen (陈诞蔚)
-  photo: chendanwei.jpg
-  info: Master student (2020-)
-  email: xx
-  number_educ: 1
-  education1: Machine learning
-
-- name: Xiaoyu Xu (徐晓宇)
-  photo: xuxiaoyu.jpg
-  info: Master student (2020-)
-  email: xx
-  number_educ: 1
-  education1: Next-generation Wearable Technology
-
-- name: Yu Zhang (张瑜)
-  photo: zhangyu.jpg
-  info: Master student, (2020-)
-  email: xx
-  number_educ: 1
-  education1: Interpretable machine learning
-  
-- name: Yutong Mao (毛宇彤)
-  photo: maoyutong.jpg
-  info: Master student,(2020-)
-  email: xx
-  number_educ: 1
-  education1: Modeling metabolic networks (jointly supervised by Prof. Xian Chen)
-
 - name: Yingjun Zhu (朱应俊)
   photo: zhuyingjun.jpg
   info: Master student (2021-)

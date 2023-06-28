@@ -8,6 +8,34 @@
 #  education3:
 #  education4:
 
+- name: Danwei Chen (陈诞蔚)
+  photo: bio-photo.jpg
+  info: Master, 2020-2023
+  email: xx
+  number_educ: 1
+  education1: Intime Department Store (银泰百货)
+
+- name: Xiaoyu Xu (徐晓宇)
+  photo: bio-photo.jpg
+  info: Master, 2020-2023
+  email: xx
+  number_educ: 1
+  education1: Meituan (美团)
+
+- name: Yu Zhang (张瑜)
+  photo: bio-photo.jpg
+  info: Master, 2020-2023
+  email: xx
+  number_educ: 1
+  education1: 温州市政府某部门
+  
+- name: Yutong Mao (毛宇彤)
+  photo: bio-photo.jpg
+  info: Master, 2020-2023
+  email: xx
+  number_educ: 1
+  education1: No.3 Middle School of Nanchang (南昌三中)
+
 - name: Chengyujie Xu (徐程玉洁)
   photo: bio-photo.jpg
   info: Master, 2019-2022
