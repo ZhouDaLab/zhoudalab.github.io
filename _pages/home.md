@@ -12,8 +12,9 @@ School of Mathematical Sciences, Xiamen University, China.
 Email：zhouda@xmu.edu.cn	   
 
 
-周达，厦门大学数学科学学院副教授，博士生导师，  
-厦门大学数学科学学院概率统计系主任
+周达，厦门大学数学科学学院 副教授/博士生导师  
+厦门大学健康医疗大数据国家研究院 副院长
+厦门大学数学科学学院概率统计系 主任
 
 ### Wechat Official QR code (课题组微信公众号)
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
@@ -60,6 +61,7 @@ Email：zhouda@xmu.edu.cn
 
 ### Services  
 - **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-.
+- **Vice Director**, National Institute for Data Science in Health and Medicine, Xiamen University, Xiamen University, 2023-.
 - **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-.
 - **Council Member**, Fujian Society for Mathematical Biology, 2017-.
 
@@ -86,7 +88,8 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Mathematical Biosciences and Engineering***,  
 &emsp;***Communications in Theoretical Physics***,  
 &emsp;***ImmunoInformatics***,  
-&emsp;***Mathematical Biosciences***,  
+&emsp;***Mathematical Biosciences***, 
+&emsp;***Theory in Biosciences***, 
 &emsp;***Frontiers in Oncology***,  
 &emsp;***Frontiers in Immunology***,  
 &emsp;***Viruses***,  
@@ -96,7 +99,8 @@ Email：zhouda@xmu.edu.cn
 ### Teaching 
 - Probability (概率论，厦门大学校级一流课程)
 - Nonparameteric statistics (非参数统计) 
-- Stochastic Calculas (随机分析)
+- Stochastic calculas (随机分析)
+- Modern statistical methods (现代数据统计分析)
 - Mathematics in natural sciences (自然科学中的数学，福建省教改项目)
 - Calculus (微积分)
 - Probability and Statistics (概率统计公共课)
