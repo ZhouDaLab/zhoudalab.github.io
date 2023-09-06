@@ -20,6 +20,7 @@ permalink: /news/
 - 张瑜、陈诞蔚、徐晓宇、毛宇彤四位同学通过答辩取得硕士学位；廖智勇、吕涵、魏先琪、陈尧、邹新驰、王龙杰六位同学通过答辩取得学士学位。
 - 课题组与胡政老师课题组合作论文《PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes》发表在Nature Biotechnology杂志。
 - 课题组与汪骋老师课题组合作论文《Uncovering the influence of the modifier redox potential on CO2 reduction through combined data-driven machine learning and hypothesis-driven experimentation》在Journal of Materials Chemistry A杂志发表。
+- 周达老师受邀访问哈尔滨工程大学，并为天元数学东北中心"数据与生物数学建模"青年教师培训班授课。
 - 周达老师受邀参加在韩国首尔举行的ICBP 2023国际学术会议，并作分组报告《Inferring Cell Division Mode and Population Size Based on Temporal Cell Proportion Data》。
 - 周达老师受邀访问韩国仁荷大学Hye Jin Park教授课题组。
 - 王琨参加GPB组学与生物信息学前沿研讨会，并获得最佳报告奖。
