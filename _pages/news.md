@@ -23,6 +23,7 @@ permalink: /news/
 - 周达老师受邀访问哈尔滨工程大学，并为天元数学东北中心"数据与生物数学建模"青年教师培训班授课。
 - 周达老师受邀参加在韩国首尔举行的ICBP 2023国际学术会议，并作分组报告《Inferring Cell Division Mode and Population Size Based on Temporal Cell Proportion Data》。
 - 周达老师受邀访问韩国仁荷大学Hye Jin Park教授课题组。
+- 王琨参加由中国生物信息学学会（筹）基因组信息学分会，人工智能与生命科学分会共同举办“基因组与人工智能：一作面对面”在线学术论坛。
 - 王琨参加GPB组学与生物信息学前沿研讨会，并获得最佳报告奖。
 - 欢迎刘心如、陈思蓉、许小如、胡宗泳进入课题组。
 
