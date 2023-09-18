@@ -43,6 +43,13 @@
   number_educ: 1
   education1: Bioinformatics (jointly supervised by Prof. Jie Hu)
 
+- name: Xinru Liu (刘心如)
+  photo: liuxinru.jpg
+  info: PhD student, (2023-)
+  email: xx
+  number_educ: 1
+  education1: 
+
 - name: Yingjun Zhu (朱应俊)
   photo: zhuyingjun.jpg
   info: Master student (2021-)
@@ -112,3 +119,24 @@
   email: xx
   number_educ: 1
   education1: AI for energy
+  
+- name: Sirong Chen (陈思蓉)
+  photo: chensirong.jpg
+  info: Master student (2023-)
+  email: xx
+  number_educ: 1
+  education1: 
+  
+- name: Zongyong Hu (胡宗泳)
+  photo: huzongyong.jpg
+  info: Master student (2023-)
+  email: xx
+  number_educ: 1
+  education1: 
+  
+- name: Xiaoru Xu (许小如)
+  photo: xuxiaoru.jpg
+  info: Master student (2023-)
+  email: xx
+  number_educ: 1
+  education1: 
