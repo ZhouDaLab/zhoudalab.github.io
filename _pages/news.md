@@ -26,6 +26,8 @@ permalink: /news/
 - 王琨参加由中国生物信息学学会（筹）基因组信息学分会，人工智能与生命科学分会共同举办“基因组与人工智能：一作面对面”在线学术论坛。
 - 王琨参加GPB组学与生物信息学前沿研讨会，并获得最佳报告奖。
 - 欢迎刘心如、陈思蓉、许小如、胡宗泳进入课题组。
+- 周达老师参加第三届系统生物学大会，并作受邀分组报告《基于单细胞谱系数据的细胞动态过程推断》。
+- 课题组与信息学院郭诗辉老师课题组合作论文《Computational Design of Wiring Layout on Tight Suits with Minimal Motion Resistance》被计算机图形学顶会Siggraph Asia接收。
 
 ### 2022年
 
