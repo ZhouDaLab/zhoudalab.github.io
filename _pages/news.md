@@ -19,7 +19,7 @@ permalink: /news/
 - 周达老师主持国网福建省电力有限公司营销服务中心项目《基于事件库的电力电量分析预测模型算法研究》。
 - 张瑜、陈诞蔚、徐晓宇、毛宇彤四位同学通过答辩取得硕士学位；廖智勇、吕涵、魏先琪、陈尧、邹新驰、王龙杰六位同学通过答辩取得学士学位。
 - 课题组与胡政老师课题组合作论文《PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes》发表在Nature Biotechnology杂志。
-- 课题组与汪骋老师课题组合作论文《Uncovering the influence of the modifier redox potential on CO2 reduction through combined data-driven machine learning and hypothesis-driven experimentation》在Journal of Materials Chemistry A杂志发表。
+- 课题组与汪骋老师课题组合作论文《Uncovering the influence of the modifier redox potential on CO2 reduction through combined data-driven machine learning and hypothesis-driven experimentation》在Journal of Materials Chemistry A杂志发表，并入选2023年热点论文。
 - 周达老师受邀访问哈尔滨工程大学，并为天元数学东北中心"数据与生物数学建模"青年教师培训班授课。
 - 周达老师受邀参加在韩国首尔举行的ICBP 2023国际学术会议，并作分组报告《Inferring Cell Division Mode and Population Size Based on Temporal Cell Proportion Data》。
 - 周达老师受邀访问韩国仁荷大学Hye Jin Park教授课题组。
@@ -28,6 +28,7 @@ permalink: /news/
 - 欢迎刘心如、陈思蓉、许小如、胡宗泳进入课题组。
 - 周达老师参加第三届系统生物学大会，并作受邀分组报告《基于单细胞谱系数据的细胞动态过程推断》。
 - 课题组与信息学院郭诗辉老师课题组合作论文《Computational Design of Wiring Layout on Tight Suits with Minimal Motion Resistance》被计算机图形学顶会Siggraph Asia接收。
+- 
 
 ### 2022年
 
@@ -65,7 +66,7 @@ permalink: /news/
 - 祝贺毕艺龙、郑溢颖、王玉曼、吴智杰四位同学顺利毕业并取得硕士学位。
 - 陈少卿前往深圳先进技术研究院胡政研究员课题组进行春季学期访学。
 - 课题组荣获田昭武交叉学科奖。
-- 课题组与汪骋教授课题组合作论文《Machine-learning-guided discovery and optimization of additives in preparing Cu catalysts for CO2 reduction》在国际化学顶级期刊JACS上发表。
+- 课题组与汪骋教授课题组合作论文《Machine-learning-guided discovery and optimization of additives in preparing Cu catalysts for CO2 reduction》在国际化学顶级期刊JACS上发表，并入选高被引论文。
 - 课题组论文《Graph Attention Networks for New Product Sales Forecasting in E-Commerce》发表在DASFAA 2021会议（CCF-B类）。
 - 王琨前往深圳先进技术研究院胡政研究员课题组进行春季学期访学。
 - 课题组论文《Stochastic stem cell models with mutation: A comparison of asymmetric and symmetric divisions》在生物数学知名期刊Mathematical Biosciences杂志发表。
