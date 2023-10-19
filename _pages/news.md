@@ -28,6 +28,8 @@ permalink: /news/
 - 欢迎刘心如、陈思蓉、许小如、胡宗泳进入课题组。
 - 周达老师参加第三届系统生物学大会，并作受邀分组报告《基于单细胞谱系数据的细胞动态过程推断》。
 - 课题组与信息学院郭诗辉老师课题组合作论文《Computational Design of Wiring Layout on Tight Suits with Minimal Motion Resistance》被计算机图形学顶会Siggraph Asia接收。
+- 周达老师受广州大学应用数学中心邀请做在线报告。
+- 王玉曼、陈少卿、周达参加第三届数学生命科学大会；周达老师在计算系统生物学做分组报告。
 - 
 
 ### 2022年
