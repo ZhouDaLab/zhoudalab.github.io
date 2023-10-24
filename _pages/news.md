@@ -30,6 +30,7 @@ permalink: /news/
 - 课题组与信息学院郭诗辉老师课题组合作论文《Computational Design of Wiring Layout on Tight Suits with Minimal Motion Resistance》被计算机图形学顶会Siggraph Asia接收。
 - 周达老师受广州大学应用数学中心邀请做在线报告。
 - 王玉曼、陈少卿、周达参加第三届数学生命科学大会；周达老师在计算系统生物学做分组报告。
+- 陈思蓉、周达参加2023年福建省生物数学会年会；周达老师受邀做40分钟大会报告，陈思蓉做20分钟学术报告。
 - 
 
 ### 2022年
