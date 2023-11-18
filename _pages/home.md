@@ -76,6 +76,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Journal of Theoretical Biology***,  
 &emsp;***Journal of Computational Biology***,  
 &emsp;***Discrete and Continuous Dynamical Systems—B***,  
+&emsp;***CSIAM Transactions on Applied Mathematics***,
 &emsp;***Entropy***,  
 &emsp;***Chaos***,  
 &emsp;***Physica A***,  
