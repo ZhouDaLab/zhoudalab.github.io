@@ -37,6 +37,8 @@ permalink: /news/
 - 周达老师受邀在天津工业大学数学科学学院做学术报告《基于单细胞谱系追踪数据的细胞动态过程推断》。
 - 周达老师受邀在集美大学理学院做学术报告《基于细胞比例时间序列数据的细胞分裂模式和群体大小推断》。
 - 周达老师参加有上海交通大学医学院主办的2023“创见 CREATE 临床研究学术论坛”，并受邀作学术报告。
+- 周达老师参加中山大学数学学院主办的“数学生命科学前沿讨论会”，并受邀作学术报告。
+- 课题组与厦门大学公共卫生学院刘刚教授课题组合作的综述论文《Simulation and Optimization: A New Direction in Supercritical Technology Based Nanomedicine》在Bioengineering杂志发表。
 
 ### 2022年
 
