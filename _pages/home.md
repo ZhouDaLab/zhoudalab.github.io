@@ -13,8 +13,8 @@ Email：zhouda@xmu.edu.cn
 
 
 周达，厦门大学数学科学学院 副教授/博士生导师  
-厦门大学健康医疗大数据国家研究院 副院长
-厦门大学数学科学学院概率统计系 主任
+厦门大学健康医疗大数据国家研究院 副院长   
+厦门大学数学科学学院概率统计系 主任   
 
 ### Wechat Official QR code (课题组微信公众号)
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
