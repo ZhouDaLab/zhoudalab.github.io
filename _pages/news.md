@@ -39,6 +39,7 @@ permalink: /news/
 - 周达老师参加有上海交通大学医学院主办的2023“创见 CREATE 临床研究学术论坛”，并受邀作学术报告。
 - 周达老师参加中山大学数学学院主办的“数学生命科学前沿讨论会”，并受邀作学术报告。
 - 课题组与厦门大学公共卫生学院刘刚教授课题组合作的综述论文《Simulation and Optimization: A New Direction in Supercritical Technology Based Nanomedicine》在Bioengineering杂志发表。
+- 周达老师访问重庆医科大学寸玉鹏老师课题组。
 
 ### 2022年
 
