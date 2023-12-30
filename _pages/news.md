@@ -40,6 +40,7 @@ permalink: /news/
 - 周达老师参加中山大学数学学院主办的“数学生命科学前沿讨论会”，并受邀作学术报告。
 - 课题组与厦门大学公共卫生学院刘刚教授课题组合作的综述论文《Simulation and Optimization: A New Direction in Supercritical Technology Based Nanomedicine》在Bioengineering杂志发表。
 - 周达老师访问重庆医科大学寸玉鹏老师课题组。
+- 王恺参加Siggraph Asia暨国际计算机图形学及交互技术亚洲研讨会并做报告。
 
 ### 2022年
 
