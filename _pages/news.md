@@ -6,6 +6,10 @@ sitemap: false
 permalink: /news/
 ---
 
+### 2024年
+
+- 荷兰特温特大学蔡宇超博士访问课题组并作报告。
+
 ### 2023年
 
 - 课题组与江西省人民医院合作论文《Prediction of coronary heart disease in gout patients using machine learning models》发表在Mathematical Biosciences&Engineering杂志。
@@ -41,6 +45,7 @@ permalink: /news/
 - 课题组与厦门大学公共卫生学院刘刚教授课题组合作的综述论文《Simulation and Optimization: A New Direction in Supercritical Technology Based Nanomedicine》在Bioengineering杂志发表。
 - 周达老师访问重庆医科大学寸玉鹏老师课题组。
 - 王恺参加Siggraph Asia暨国际计算机图形学及交互技术亚洲研讨会并做报告。
+- 瑞士苏黎世联邦理工学院方洲博士受邀访问课题组并作报告。
 
 ### 2022年
 
