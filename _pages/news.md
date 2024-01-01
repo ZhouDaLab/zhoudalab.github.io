@@ -68,7 +68,7 @@ permalink: /news/
 - 周达老师受邀在线参加韩国高等研究院Modeling on Ecology and Evolution Workshop，并做学术报告《Effect of cell competition on the extinction of mutant cells in cellular hierarchy》。
 - 课题组成功举办2022年“定量生物学：数学建模与统计推断”线上学术研讨会。
 - 武汉理工大学曹菁菁老师受邀做在线报告。
-- 课题组与郭文熹老师课题组合作论文《Self-powered speech recognition systemfordeafusers》发表在Cell Reports Physical Science杂志。
+- 课题组与郭文熹老师课题组合作论文《Self-powered speech recognition system for deaf users》发表在Cell Reports Physical Science杂志。
 
 ### 2021年
 
