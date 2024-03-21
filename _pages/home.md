@@ -7,12 +7,12 @@ permalink: /
 ---
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/zhouda1.jpg" width="99" height="176" />  
 
-ZHOU Da, Associate Professor   
+ZHOU Da, Professor   
 School of Mathematical Sciences, Xiamen University, China.   
 Email：zhouda@xmu.edu.cn	   
 
 
-周达，厦门大学数学科学学院 副教授/博士生导师  
+周达，厦门大学数学科学学院 教授/博士生导师  
 厦门大学健康医疗大数据国家研究院 副院长   
 厦门大学数学科学学院概率统计系 主任   
 
@@ -34,7 +34,9 @@ Email：zhouda@xmu.edu.cn
   Deparment of Mathematics, Huazhong University of Science and Technology, China.
 
 ### Professional Experience 	
-- 2017/11 - Present, **Asscociate Professor**,  
+- 2023/08 - present, **Professor**,  
+  School of Mathematical Sciences, Xiamen University, China.  
+- 2017/11 - 2023/07, **Asscociate Professor**,  
   School of Mathematical Sciences, Xiamen University, China.  
 - 2018/09-2019/09, **Visiting Scientist**,  
   Max Planck Institute for Evolutionary Biology, Germany.  
