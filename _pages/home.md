@@ -80,6 +80,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Discrete and Continuous Dynamical Systems—B***,  
 &emsp;***CSIAM Transactions on Applied Mathematics***,  
 &emsp;***Entropy***,  
+&emsp;***Fuel***,  
 &emsp;***New Journal of Chemistry***,  
 &emsp;***Chaos***,  
 &emsp;***Physica A***,  
