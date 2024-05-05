@@ -99,6 +99,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Frontiers in Immunology***,   
 &emsp;***Viruses***,  
 &emsp;***Mathematics***,  
+&emsp;***International Journal of High Speed Electronics and Systems***,  
 &emsp;***...***
 
 ### Teaching 
