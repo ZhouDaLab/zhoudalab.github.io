@@ -8,7 +8,9 @@ permalink: /news/
 
 ### 2024年
 
+- 周达老师在江苏徐州参加全国工业统计学教学研究会青年统计学家协会2024年年会，并当选协会常务理事。
 - 课题组与深圳先进技术研究院合作成果获得2023年度“中国生物信息学十大进展”。
+- 课题组与国网福建省电力有限公司营销服务中心合作的横向课题论文“Assessing the Impact of the COVID-19 Pandemic on Electricity Consumption: A Machine Learning Approach”发表在IEEE Access杂志，课题组王玉曼同学是论文通讯作者。  
 - 周达老师参加湖南大学金融与统计学院组织的“大数据统计前沿论坛”。
 - 周达老师受邀在SIGMAI云上半月谈（68期）做报告。
 - 荷兰特温特大学蔡宇超博士访问课题组并作报告。
