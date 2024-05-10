@@ -20,6 +20,7 @@ permalink: /news/
 
 ### 2023年
 
+- 周达老师晋升厦门大学数学科学学院教授。
 - 课题组与江西省人民医院合作论文《Prediction of coronary heart disease in gout patients using machine learning models》发表在Mathematical Biosciences&Engineering杂志。
 - 课题组与汪骋老师课题组合作的评述论文《自动化和智能化的化学合成》在"中国科学：化学"杂志发表。
 - 课题组与汪骋老师课题组合作论文《Interpretable Machine Learning of Two-Photon Absorption》在Advanced Science杂志发表。
@@ -41,6 +42,7 @@ permalink: /news/
 - 周达老师受邀在厦门理工学院作学术报告《图表示学习及其应用》。
 - 周达老师参加第三届系统生物学大会，并作受邀分组报告《基于单细胞谱系数据的细胞动态过程推断》。
 - 课题组与信息学院郭诗辉老师课题组合作论文《Computational Design of Wiring Layout on Tight Suits with Minimal Motion Resistance》被计算机图形学顶会Siggraph Asia接收。
+- 周达老师兼任厦门大学健康医疗大数据国家研究院副院长。
 - 周达老师受广州大学应用数学中心邀请做在线报告。
 - 王玉曼、陈少卿、周达参加第三届数学生命科学大会；周达老师在计算系统生物学做分组报告。
 - 陈思蓉、周达参加2023年福建省生物数学会年会；周达老师受邀做40分钟大会报告，陈思蓉做20分钟学术报告。
@@ -131,7 +133,6 @@ permalink: /news/
 ### 2018年
 
 - 欢迎18级硕士生毕艺龙，郑溢颖和王玉曼三位同学加入课题组！
-- 16级硕士生徐传宇同学录用为阿里巴巴机器学习算法工程师。
 - 周达老师赴德国马普进化生物学研究所学术访问一年（2018.9.1-2019.8.31）。
 - 16级硕士生徐传宇同学的论文荣获ICPR2018最佳科学论文奖。
 - 课题组陆续在机器学习重要会议上发表论文。
