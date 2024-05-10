@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2024年
 
+- 课题组与吴琦老师课题组合作论文《An alignment- and reference-free strategy using k-mer present pattern for population genomic analyses》被Mycology杂志接收。
 - 周达老师主持国网福建省电力有限公司营销服务中心项目《基于用户行为心理的用电需求态势感知体系与模型研究》。
 - 课题组与胡杰老师课题组合作论文《Biclustering analysis on tree-shaped time-series single cell gene expression data of Caenorhabditis elegans》被BMC Bioinformatics杂志接收。
 - 周达老师参加全国工业统计学教学研究会青年统计学家协会2024年年会，并当选协会常务理事。
