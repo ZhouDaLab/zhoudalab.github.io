@@ -58,12 +58,13 @@ Email：zhouda@xmu.edu.cn
 - 2011/07 - 2013/07, **China Postdoctoral Science Foundation** (中国博士后科学基金), PI. 
 
 ### Awards and Honors  
+- [**GBP评选的"中国生物信息学十大进展"**](http://gpb.big.ac.cn/news/1020), 2023.
 - **Tong De Award (同德奖教金)**, 2022.
 - **Tian Zhaowu Prize in interdisciplinary science (田昭武学科交叉奖)**, 2021.  
 - **厦门大学教学技能比赛特等奖**, 2021.
 
 ### Services  
-- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-.
+- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-. 
 - **Vice Director**, National Institute for Data Science in Health and Medicine, Xiamen University, Xiamen University, 2023-.
 - **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-.
 - **Council Member**, Fujian Society for Mathematical Biology, 2017-.
