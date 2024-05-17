@@ -49,6 +49,7 @@ Email：zhouda@xmu.edu.cn
 	
 
 ### Research Funding 
+- 2024/06 - 2025/04  **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
 - 2023/04 - 2024/03, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
 - 2022/01 - 2022/12, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI.  
 - 2020/01 - 2023/12, **NSFC Project** (国家自然科学基金面上项目), PI.  
@@ -71,6 +72,7 @@ Email：zhouda@xmu.edu.cn
 
 &emsp;***Nature Communications***,  
 &emsp;***Physical Review Letters***,  
+&emsp;***Advanced Science***,  
 &emsp;***Patterns***,  
 &emsp;***PLoS Computational Biology***,  
 &emsp;***Physical Review E***,  
