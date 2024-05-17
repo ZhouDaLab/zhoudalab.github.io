@@ -66,8 +66,11 @@ Email：zhouda@xmu.edu.cn
 ### Services  
 - **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-. 
 - **Vice Director**, National Institute for Data Science in Health and Medicine, Xiamen University, Xiamen University, 2023-.
-- **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-.
-- **Council Member**, Fujian Society for Mathematical Biology, 2017-.
+- **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-. (中国工业与应用数学学会数学生命科学专委会理事)
+- **Executive Council Member**, Second Council of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association, 2024-. (全国工业统计学教学研究会青年统计学家协会第二届理事会常务理事)
+- **Council Member**， Statistical Interdisciplinary Research Section of the Chinese Association for Applied Statistics， 2023-. （中国现场统计研究会统计交叉科学研究分会理事）
+- **Executive Council Member**, Fujian Society for Mathematical Biology, 2023-. (福建省生物数学学会常务理事)
+- **Secretary General**,  Xiamen Mathematical Society, 2023-. (厦门市数学学会秘书长)
 
 ### Referee  
 
