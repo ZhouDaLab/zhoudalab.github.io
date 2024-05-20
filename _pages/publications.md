@@ -10,6 +10,7 @@ permalink: /publications/
 ## [Full Publications (Google Scholar)](https://scholar.google.com/citations?user=i9YneRcAAAAJ&hl=zh-CN) 
 
 ## Selected Publications 
+（加粗为课题组成员，\#为共同一作，\*为通讯作者）
 
 - **Shaoqing Chen(2021级博士)\#**, Duo Xie\#, Jiguang Wang, Zheng Hu\*, **Da Zhou\***. Frequency-dependent selection of neoantigens fosters tumor immune escape and predicts immunotherapy response, accepted by *Communications Biology*.
 - **Kun Wang(2019级硕士，2022级博士)**, Liangzhen Hou, Zhaolian Lu, Xin Wang, Xiangwei Zhai, Zhike Zi, Weiwei Zhai, Xionglei He, Christina Curtis, **Da Zhou\***, Zheng Hu\*. [PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes.](https://www.nature.com/articles/s41587-023-01887-5) *Nature Biotechnology*, 42(2024): 778–789. ([工作介绍](http://isynbio.siat.ac.cn/view.php?id=753))([被评为2023年中国生物信息学十大进展](http://gpb.big.ac.cn/news/1020))
