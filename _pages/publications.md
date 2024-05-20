@@ -31,7 +31,7 @@ permalink: /publications/
 - **Da Zhou\*** and Hong Qian\*. [Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.031907) *Physical Review E* 84.3 (2011): 031907.
 - **Da Zhou\***, Bin Wu, and Hao Ge. [Evolutionary stability and quasi-stationary strategy in stochastic evolutionary game dynamics.](https://www.sciencedirect.com/science/article/pii/S0022519310001414) *Journal of Theoretical Biology* 264.3 (2010): 874-881.
 
-2. **AI for Chemistry/Machine Learning**
+2. **AI for Chemistry/Graph Machine Learning**
 
 - Xinru He\#, Yuming Su\#, Jieyu Zhu\#, Nan Fang, YangTao Chen, Huichong Liu, **Da Zhou\***, Cheng Wang\*. [Uncovering the influence of the modifier redox potential on CO2 reduction through combined data-driven machine learning and hypothesis-driven experimentation.](https://doi.org/10.1039/D3TA03115B) 	*Journel of Materials Chemistry A*, 11(2023): 18106-18114. （入选该杂志2023年热点文章 HOT Papers）
 - **Liang Zhang(2020级博士)**, Longqiang Yi, Yu Liu, Cheng wang, **Da Zhou\***. [Motif Entropy Graph Kernel.](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002443) *Pattern Recognition*, 140 (2023): 109544. 
