@@ -11,6 +11,7 @@ permalink: /publications/
 
 ## Selected Publications 
 
+- **Shaoqing Chen(2021级博士)\#**, Duo Xie\#, Jiguang Wang, Zheng Hu\*, **Da Zhou\***. Frequency-dependent selection of neoantigens fosters tumor immune escape and predicts immunotherapy response, accepted by *Communications Biology*.
 - **Kun Wang(2019级硕士，2022级博士)**, Liangzhen Hou, Zhaolian Lu, Xin Wang, Xiangwei Zhai, Zhike Zi, Weiwei Zhai, Xionglei He, Christina Curtis, **Da Zhou\***, Zheng Hu\*. [PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes.](https://www.nature.com/articles/s41587-023-01887-5) *Nature Biotechnology*, 42(2024): 778–789. ([工作介绍](http://isynbio.siat.ac.cn/view.php?id=753))([被评为2023年中国生物信息学十大进展](http://gpb.big.ac.cn/news/1020))
 - **Kai Wang(2022级硕士)**, Xiaoyu Xu, Yinping Zheng, **Da Zhou**, Shihui Guo\*, Yipeng Qin, Xiaohu Guo. [Computational design of wiring layout on tight suits with minimal motion resistance.](https://dl.acm.org/doi/abs/10.1145/3610548.3618200) *SIGGRAPH Asia*, 2023. (CCF-A类会议)
 - Xinru He\#, Yuming Su\#, Jieyu Zhu\#, Nan Fang, YangTao Chen, Huichong Liu, **Da Zhou\***, Cheng Wang\*. [Uncovering the influence of the modifier redox potential on CO2 reduction through combined data-driven machine learning and hypothesis-driven experimentation.](https://doi.org/10.1039/D3TA03115B) 	*Journel of Materials Chemistry A*, 11(2023): 18106-18114. （入选该杂志2023年热点文章 HOT Papers）
