@@ -20,21 +20,21 @@
   info: PhD student (2021-)
   email: xx
   number_educ: 1
-  education1: Modeling cancer cell plasticity
+  education1: Computational biology
 
 - name: Shaoqin Chen (陈少卿)
   photo: chenshaoqing.jpg
   info: PhD student (2021-)
   email: xx
   number_educ: 1
-  education1: Modeling cancer evolution
+  education1: Computational biology
   
 - name: Kun Wang (王琨)
   photo: wangkun.jpg
   info: PhD student (2022-)
   email: kunwang034@gmail.com
   number_educ: 1
-  education1: Bioinformatics and computational methods for single cell sequencing (jointly supervised by Prof. Zheng Hu)
+  education1: Bioinformatics (jointly supervised by Prof. Zheng Hu)
 
 - name: Qi Guan (关企)
   photo: guanqi.jpg
@@ -48,42 +48,42 @@
   info: PhD student, (2023-)
   email: xx
   number_educ: 1
-  education1: 
+  education1: Graph machine learning
 
 - name: Yingjun Zhu (朱应俊)
   photo: zhuyingjun.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
-  education1: Interpretable machine learning 
+  education1: Machine learning 
   
 - name: Xinchen Guo (郭欣宸)
   photo: guoxinchen.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
-  education1: Modeling metabolic networks
+  education1: Computational biology
   
 - name: Wenbin Wang (王文彬)
   photo: wangwenbin.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
-  education1: Next-generation Wearable Technology
+  education1: Machine learning
   
 - name: Zhuoying Xu (许卓莹)
   photo: xuzhuoying.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
-  education1: Interpretable machine learning (jointly supervised by Prof. Xian Chen)
+  education1: Machine learning (jointly supervised by Prof. Xian Chen)
   
 - name: Zechen Chen (陈泽宸)
   photo: chenzechen.jpg
   info: Master student (2021-)
   email: xx
   number_educ: 1
-  education1: Cluster mass spectrometry data analysis (jointly supervised by Prof. Wei Liang)
+  education1: Machine learning (jointly supervised by Prof. Wei Liang)
   
 - name: Jiaxing Liu (刘稼兴)
   photo: liujiaxing.jpg
@@ -97,46 +97,46 @@
   info: Master student (2022-)
   email: xx
   number_educ: 1
-  education1: Next-generation Wearable Technology
+  education1: Machine learning
   
 - name: Wei Liu (刘薇)
   photo: liuwei.jpg
   info: Master student (2022-)
   email: xx
   number_educ: 1
-  education1: AI for energy
+  education1: Machine learning
   
 - name: Jiebin Su (苏杰彬)
   photo: sujiebin.jpg
   info: Master student (2022-)
   email: xx
   number_educ: 1
-  education1: AI for chemistry
+  education1: Machine learning
   
 - name: Yanning Tao (陶宴宁)
   photo: taoyanning.jpg
   info: Master student (2022-)
   email: xx
   number_educ: 1
-  education1: AI for energy
+  education1: Machine learning
   
 - name: Sirong Chen (陈思蓉)
   photo: chensirong.jpg
   info: Master student (2023-)
   email: xx
   number_educ: 1
-  education1: 
+  education1: Bioinformatics
   
 - name: Zongyong Hu (胡宗泳)
   photo: huzongyong.jpg
   info: Master student (2023-)
   email: xx
   number_educ: 1
-  education1: 
+  education1: Machine learning
   
 - name: Xiaoru Xu (许小如)
   photo: xuxiaoru.jpg
   info: Master student (2023-)
   email: xx
   number_educ: 1
-  education1: 
+  education1: Machine learning
