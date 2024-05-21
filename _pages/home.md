@@ -106,7 +106,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Viruses***,  
 &emsp;***Mathematics***,  
 &emsp;***International Journal of High Speed Electronics and Systems***,  
-&emsp;***...***
+&emsp;***厦门大学学报自然科学版***
 
 ### Teaching 
 - Probability (概率论，厦门大学校级一流课程)
