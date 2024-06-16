@@ -11,6 +11,8 @@ permalink: /news/
 - 祝贺张良同学通过答辩取得博士学位；祝贺许卓莹、王文彬、郭欣宸、朱应俊、陈泽宸、刘稼兴等六位同学通过答辩取得硕士学位；祝贺周于杰、覃译贤等两位同学通过答辩取得学士学位。
 - 周达老师参加福建省数学学会换届大会，并当选为学会理事。
 - 周达老师受邀访问中南大学数学与统计学院。
+- 北京师范大学珠海校区刘宇副研究员来访。
+- 山东大学刘丙强教授、何勇教授来访。
 - 课题组与胡政老师课题组合作论文《Frequency-dependent selection of neoantigens fosters tumor immune escape and predicts immunotherapy response》被Communications Biology杂志接收。
 - 课题组与吴琦老师课题组合作论文《An alignment- and reference-free strategy using k-mer present pattern for population genomic analyses》被Mycology杂志接收。
 - 周达老师主持国网福建省电力有限公司营销服务中心项目《基于用户行为心理的用电需求态势感知体系与模型研究》。
