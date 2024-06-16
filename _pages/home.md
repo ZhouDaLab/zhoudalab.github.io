@@ -78,6 +78,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Physical Review Letters***,  
 &emsp;***Advanced Science***,  
 &emsp;***Patterns***,  
+&emsp;***ACS Applied Materials & Interfaces***,  
 &emsp;***PLoS Computational Biology***,  
 &emsp;***Physical Review E***,  
 &emsp;***npj Systems Biology and Applications***,  
