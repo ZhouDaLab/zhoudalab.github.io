@@ -1,10 +1,3 @@
-![image](https://github.com/ZhouDaLab/zhoudalab.github.io/assets/111555436/c6ae19a1-c09b-49de-8dc6-17a65075e2ac)---
-title: "ZhouDa Lab - NEWS"
-layout: gridlay
-excerpt: "ZhouDa Lab -- NEWS."
-sitemap: false
-permalink: /news/
----
 
 ### 2024年
 
