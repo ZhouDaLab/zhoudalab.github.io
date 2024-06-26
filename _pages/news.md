@@ -1,4 +1,4 @@
----
+![image](https://github.com/ZhouDaLab/zhoudalab.github.io/assets/111555436/c6ae19a1-c09b-49de-8dc6-17a65075e2ac)---
 title: "ZhouDa Lab - NEWS"
 layout: gridlay
 excerpt: "ZhouDa Lab -- NEWS."
@@ -8,6 +8,9 @@ permalink: /news/
 
 ### 2024年
 
+- 周达老师参加韩国首尔举办的KSMB-SMB学术年会，组织mini-symposium “Integrating Theoretical Models with Data in Biology: Bridging the Gap”，并做报告。
+- 课题组周达老师、王玉曼、陈少卿、谭梦凡参加西安交通大学主办的第七届生物数学国际会议。
+- 周达老师受邀访问陕西科技大学。
 - 祝贺张良同学通过答辩取得博士学位；祝贺许卓莹、王文彬、郭欣宸、朱应俊、陈泽宸、刘稼兴等六位同学通过答辩取得硕士学位；祝贺周于杰、覃译贤等两位同学通过答辩取得学士学位。
 - 周达老师参加福建省数学学会换届大会，并当选为学会理事。
 - 周达老师受邀访问中南大学数学与统计学院。
