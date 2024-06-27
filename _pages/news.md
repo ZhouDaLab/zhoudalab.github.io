@@ -1,4 +1,10 @@
-
+---
+title: "ZhouDa Lab - News"
+layout: gridlay
+excerpt: "ZhouDa Lab -- News."
+sitemap: false
+permalink: /News/
+---
 ### 2024年
 
 - 周达老师参加韩国首尔举办的KSMB-SMB学术年会，组织mini-symposium “Integrating Theoretical Models with Data in Biology: Bridging the Gap”，并做报告。
