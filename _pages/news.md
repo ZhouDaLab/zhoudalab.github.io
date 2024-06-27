@@ -1,7 +1,7 @@
 ---
 title: "ZhouDa Lab - News"
 layout: textlay
-excerpt: "ZhouDa Lab -- News."
+excerpt: "ZhouDa Lab -- News"
 sitemap: false
 permalink: /News/
 ---
