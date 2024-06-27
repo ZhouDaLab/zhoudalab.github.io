@@ -3,7 +3,7 @@ title: "ZhouDa Lab - News"
 layout: textlay
 excerpt: "ZhouDa Lab -- News"
 sitemap: false
-permalink: /News/
+permalink: /news/
 ---
 ### 2024年
 
