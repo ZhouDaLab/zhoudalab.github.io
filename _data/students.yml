@@ -8,13 +8,6 @@
 #  education3:
 #  education4:
 
-- name: Liang Zhang (张良)
-  photo: zhangliang.jpg
-  info: PhD student (2020-)
-  email: xx
-  number_educ: 1
-  education1: Graph machine learning
-
 - name: Yuman Wang (王玉曼)
   photo: wangyuman.jpg
   info: PhD student (2021-)
@@ -50,47 +43,19 @@
   number_educ: 1
   education1: Graph machine learning
 
-- name: Yingjun Zhu (朱应俊)
-  photo: zhuyingjun.jpg
-  info: Master student (2021-)
+- name: Mengfan Tan (谭梦凡)
+  photo: tanmengfan.jpg
+  info: PhD student, (2024-)
   email: xx
   number_educ: 1
-  education1: Interpretability in machine learning
-  
-- name: Xinchen Guo (郭欣宸)
-  photo: guoxinchen.jpg
-  info: Master student (2021-)
+  education1: 
+
+- name: Rui Meng (孟蕊)
+  photo: mengrui.jpg
+  info: PhD student, (2024-)
   email: xx
   number_educ: 1
-  education1: Computational biology
-  
-- name: Wenbin Wang (王文彬)
-  photo: wangwenbin.jpg
-  info: Master student (2021-)
-  email: xx
-  number_educ: 1
-  education1: Application of machine learning in computer graphics
-  
-- name: Zhuoying Xu (许卓莹)
-  photo: xuzhuoying.jpg
-  info: Master student (2021-)
-  email: xx
-  number_educ: 1
-  education1: Interpretability in machine learning
-  
-- name: Zechen Chen (陈泽宸)
-  photo: chenzechen.jpg
-  info: Master student (2021-)
-  email: xx
-  number_educ: 1
-  education1: Application of machine learning in chemistry (jointly supervised by Prof. Wei Liang)
-  
-- name: Jiaxing Liu (刘稼兴)
-  photo: liujiaxing.jpg
-  info: Master student (2021-)
-  email: xx
-  number_educ: 1
-  education1: Application of machine learning in chemistry (jointly supervised by Prof. Cheng Wang)
+  education1: 
   
 - name: Kai Wang (王恺)
   photo: wangkai.jpg
@@ -140,3 +105,31 @@
   email: xx
   number_educ: 1
   education1: Application of machine learning in power systems
+
+- name: Ziwen Xu (徐子文)
+  photo: xuziwen.jpg
+  info: Master student (2024-)
+  email: xx
+  number_educ: 1
+  education1: 
+
+- name: Jiayi Li (李佳怡)
+  photo: lijiayi.jpg
+  info: Master student (2024-)
+  email: xx
+  number_educ: 1
+  education1: 
+
+- name: Yujie Zhou (周于杰)
+  photo: zhouyujie.jpg
+  info: Master student (2024-)
+  email: xx
+  number_educ: 1
+  education1: 
+
+- name: Yiping Wang (汪依萍)
+  photo: wangyiping.jpg
+  info: Master student (2024-)
+  email: xx
+  number_educ: 1
+  education1: 
