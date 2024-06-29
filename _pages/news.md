@@ -7,6 +7,7 @@ permalink: /news/
 ---
 ### 2024年
 
+- 课题组与刘宇老师课题组合作论文《Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance》被npj Complexity杂志接收。
 - 周达老师参加韩国首尔举办的KSMB-SMB学术年会，组织mini-symposium “Integrating Theoretical Models with Data in Biology: Bridging the Gap”，并做报告。
 - 课题组周达老师、王玉曼、陈少卿、谭梦凡参加西安交通大学主办的第七届生物数学国际会议。
 - 周达老师受邀访问陕西科技大学。
