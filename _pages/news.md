@@ -7,6 +7,7 @@ permalink: /news/
 ---
 ### 2024年
 
+- 欢迎谭梦凡、孟蕊、李佳怡、徐子文、周于杰、汪依萍加入课题组！
 - 周达老师参加哈尔滨工程大学主办的中国生物数学会生物数学专委会第十届学术年会，并在“生物医学与计算生物学”专题做报告。
 - 课题组与刘宇老师课题组合作论文《Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance》被npj Complexity杂志接收。
 - 周达老师参加韩国首尔举办的KSMB-SMB学术年会，组织mini-symposium “Integrating Theoretical Models with Data in Biology: Bridging the Gap”，并做报告。
