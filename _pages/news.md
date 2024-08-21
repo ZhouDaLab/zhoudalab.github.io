@@ -8,6 +8,7 @@ permalink: /news/
 ### 2024年
 
 - 欢迎谭梦凡、孟蕊、李佳怡、徐子文、周于杰、汪依萍加入课题组！
+- 周达老师参加第十五届计算系统生物学国际会议。
 - 刘心如同学参加中国现场统计研究会统计交叉科学研究分会第二届学术年会（长春）。
 - 课题组与胡杰老师课题组合作论文《Reconstruction of gene regulatory networks for Caenorhabditis elegans using tree-shaped gene expression data》被Briefings in Bioinformatics杂志接收。
 - 周达老师参加哈尔滨工程大学主办的中国生物数学会生物数学专委会第十届学术年会，并在“生物医学与计算生物学”专题做报告。
