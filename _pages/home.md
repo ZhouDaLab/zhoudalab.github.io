@@ -49,7 +49,8 @@ Email：zhouda@xmu.edu.cn
 	
 
 ### Research Funding 
-- 2024/06 - 2025/04,  **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
+- 2025/01 - 2028/12, **NSFC Project** (国家自然科学基金面上项目)，PI.
+- 2024/06 - 2025/04, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
 - 2023/04 - 2024/03, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
 - 2022/01 - 2022/12, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI.  
 - 2020/01 - 2023/12, **NSFC Project** (国家自然科学基金面上项目), PI.  
@@ -64,8 +65,9 @@ Email：zhouda@xmu.edu.cn
 - **厦门大学教学技能比赛特等奖**, 2021.
 
 ### Services  
-- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-. 
-- **Vice Director**, National Institute for Data Science in Health and Medicine, Xiamen University, Xiamen University, 2023-.
+- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-. （厦门大学数学科学学院概率与数理统计系主任）
+- **Vice Director**, National Institute for Data Science in Health and Medicine, Xiamen University, Xiamen University, 2023-. （厦门大学健康医疗大数据国家研究院 副院长）
+- **Council Member**, The Computational Systems Biology Division of the Operations Research Society of China, 2024-. (中国运筹学会计算系统生物学分会理事)
 - **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-. (中国工业与应用数学学会数学生命科学专委会理事)
 - **Executive Council Member**, Second Council of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association, 2024-. (全国工业统计学教学研究会青年统计学家协会第二届理事会常务理事)
 - **Council Member**， Statistical Interdisciplinary Research Section of the Chinese Association for Applied Statistics， 2023-. （中国现场统计研究会统计交叉科学研究分会理事）
@@ -78,6 +80,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Physical Review Letters***,  
 &emsp;***Advanced Science***,  
 &emsp;***Patterns***,  
+&emsp;***IEEE Transactions on Neural Networks and Learning Systems***,  
 &emsp;***ACS Applied Materials & Interfaces***,  
 &emsp;***PLoS Computational Biology***,  
 &emsp;***Physical Review E***,  
