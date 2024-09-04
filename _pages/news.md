@@ -12,7 +12,7 @@ permalink: /news/
 - 周达老师获国家自然科学基金面上项目资助。
 - 课题组与国网福建省电力有限公司营销服务中心合作的横向课题论文“Predicting Industrial Electricity Consumption Using Industry–Geography Relationships: A Graph-Based Machine Learning Approach”发表在Energies杂志。  
 - 欢迎谭梦凡、孟蕊、李佳怡、徐子文、周于杰、汪依萍加入课题组！
-- 周达老师参加第十五届计算系统生物学国际会议（开封），并作分组报告。
+- 周达老师参加第十五届计算系统生物学国际会议（开封），并作分组报告；会上，周达老师当选中国运筹学会ISB第三届理事会理事。
 - 刘心如同学参加中国现场统计研究会统计交叉科学研究分会第二届学术年会（长春）。
 - 课题组与胡杰老师课题组合作论文《Reconstruction of gene regulatory networks for Caenorhabditis elegans using tree-shaped gene expression data》被Briefings in Bioinformatics杂志接收。
 - 周达老师参加哈尔滨工程大学主办的中国生物数学会生物数学专委会第十届学术年会，并在“生物医学与计算生物学”专题做报告。
