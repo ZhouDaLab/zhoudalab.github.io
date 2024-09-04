@@ -7,6 +7,8 @@ permalink: /news/
 ---
 ### 2024年
 
+- 课题组参与刘宇老师课题组研究论文“The weaken-fill-repair model for cell budding: linking cell wall biosynthesis with mechanics”被iScience杂志接收。
+- 课题组参与胡政老师课题组研究论文“Polyclonal-to-monoclonal transition in colorectal precancerous evolution”被Nature杂志接收。
 - 周达老师获国家自然科学基金面上项目资助。
 - 课题组与国网福建省电力有限公司营销服务中心合作的横向课题论文“Predicting Industrial Electricity Consumption Using Industry–Geography Relationships: A Graph-Based Machine Learning Approach”发表在Energies杂志。  
 - 欢迎谭梦凡、孟蕊、李佳怡、徐子文、周于杰、汪依萍加入课题组！
