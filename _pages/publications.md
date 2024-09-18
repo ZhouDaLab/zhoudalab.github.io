@@ -12,7 +12,7 @@ permalink: /publications/
 ## Selected Publications 
 （加粗为课题组成员，\#为共同一作，\*为通讯作者）
 
-1. **Computational Biology/Mathematical Biology/Bioinformatics**
+**Computational Biology/Mathematical Biology/Bioinformatics**
 
 - **Shaoqing Chen(2021级博士)\#**, Duo Xie\#, Jiguang Wang, Zheng Hu\*, **Da Zhou\***. [Frequency-dependent selection of neoantigens fosters tumor immune escape and predicts immunotherapy response.](https://www.nature.com/articles/s42003-024-06460-7) *Communications Biology*, 7(2024): 770. 
 - Guohui Shi\#, Yi Dai#, **Da Zhou\#**, Mengmeng Chen, Jiaqi Zhang, **Yilong Bi(2018级硕士)**, Shuai Liu, Qi Wu\*. [An alignment- and reference-free strategy using k-mer present pattern for population genomic analyses.](https://www.tandfonline.com/doi/citedby/10.1080/21501203.2024.2358868?scroll=top&needAccess=true) *Mycology*, (2024).
@@ -32,7 +32,7 @@ permalink: /publications/
 - **Da Zhou\*** and Hong Qian\*. [Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.031907) *Physical Review E* 84.3 (2011): 031907.
 - **Da Zhou\***, Bin Wu, and Hao Ge. [Evolutionary stability and quasi-stationary strategy in stochastic evolutionary game dynamics.](https://www.sciencedirect.com/science/article/pii/S0022519310001414) *Journal of Theoretical Biology* 264.3 (2010): 874-881.
 
-2. **AI for Chemistry/Machine Learning**
+**AI for Chemistry/Machine Learning**
 
 - "Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance" accepted for publicationin npj Complexity.
 - Xinru He\#, Yuming Su\#, Jieyu Zhu\#, Nan Fang, YangTao Chen, Huichong Liu, **Da Zhou\***, Cheng Wang\*. [Uncovering the influence of the modifier redox potential on CO2 reduction through combined data-driven machine learning and hypothesis-driven experimentation.](https://doi.org/10.1039/D3TA03115B) 	*Journel of Materials Chemistry A*, 11(2023): 18106-18114. （入选该杂志2023年热点文章 HOT Papers）
@@ -44,7 +44,7 @@ permalink: /publications/
 - **Chuanyu Xu(2016级硕士，福建省优秀学术硕士论文)**, Dong Wang, Zhihong Zhang\*, Beizhan Wang, **Da Zhou**, Guijun Ren, Lu Bai, Lixin Cui, Edwin R Hancock. [Depth-based subgraph convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/8545090/), *ICPR*, 2018. (Best Scientific paper, 最佳科学论文奖)
 
 
-3. **Miscellaneous** 
+**Miscellaneous** 
 
 - **Kai Wang(2022级硕士)**, Xiaoyu Xu, Yinping Zheng, **Da Zhou**, Shihui Guo\*, Yipeng Qin, Xiaohu Guo. [Computational design of wiring layout on tight suits with minimal motion resistance.](https://dl.acm.org/doi/abs/10.1145/3610548.3618200) *SIGGRAPH Asia*, 2023. (CCF-A类会议)
 - Jizhong Zhao\#, **Danwei Chen\#(2020级硕士)**, Li Zhao, Yating Shi, Shihui Guo, Zhongguan Zhu, Jiarong Liu, Wanjing Li, Wentao Lei, Haixia Chen, Yi Chen, **Da Zhou**, Ronghui Wu\*, Wenxi Guo\*. [Self-powered speech recognition system for deaf users.](https://www.sciencedirect.com/science/article/pii/S2666386422004799) *Cell Reports Physical Science*, 3 (2022), 101168.
