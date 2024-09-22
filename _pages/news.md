@@ -7,6 +7,7 @@ permalink: /news/
 ---
 ### 2024年
 
+- 陈少卿赴英国伦敦玛丽女王大学数学系黄维妮教授课题组访问。
 - 课题组参与刘宇老师课题组研究论文“The weaken-fill-repair model for cell budding: linking cell wall biosynthesis with mechanics”被iScience杂志接收。
 - 课题组参与胡政老师课题组研究论文“Polyclonal-to-monoclonal transition in colorectal precancerous evolution”被Nature杂志接收。
 - 周达老师获国家自然科学基金面上项目资助。
