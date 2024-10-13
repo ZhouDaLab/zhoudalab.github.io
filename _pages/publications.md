@@ -14,7 +14,7 @@ permalink: /publications/
 
 **Computational Biology/Mathematical Biology/Bioinformatics**
 
-- **Shaoqing Chen(2021级博士)\#**, Duo Xie\#, Jiguang Wang, Zheng Hu\*, **Da Zhou\***. [Frequency-dependent selection of neoantigens fosters tumor immune escape and predicts immunotherapy response.](https://www.nature.com/articles/s42003-024-06460-7) *Communications Biology*, 7(2024): 770. ([工作介绍](https://mp.weixin.qq.com/s/Onzq5t2Rptly4z270DviZw))
+- **Shaoqing Chen(2021级博士)\#**, Duo Xie\#, Jiguang Wang, Zheng Hu\*, **Da Zhou\***. [Frequency-dependent selection of neoantigens fosters tumor immune escape and predicts immunotherapy response.](https://www.nature.com/articles/s42003-024-06460-7) *Communications Biology*, 7(2024): 770.
 - Guohui Shi\#, Yi Dai#, **Da Zhou\#**, Mengmeng Chen, Jiaqi Zhang, **Yilong Bi(2018级硕士)**, Shuai Liu, Qi Wu\*. [An alignment- and reference-free strategy using k-mer present pattern for population genomic analyses.](https://www.tandfonline.com/doi/citedby/10.1080/21501203.2024.2358868?scroll=top&needAccess=true) *Mycology*, (2024).
 - **Kun Wang(2019级硕士，2022级博士)**, Liangzhen Hou, Zhaolian Lu, Xin Wang, Xiangwei Zhai, Zhike Zi, Weiwei Zhai, Xionglei He, Christina Curtis, **Da Zhou\***, Zheng Hu\*. [PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes.](https://www.nature.com/articles/s41587-023-01887-5) *Nature Biotechnology*, 42(2024): 778–789. ([工作介绍](http://isynbio.siat.ac.cn/view.php?id=753))([被评为2023年中国生物信息学十大进展](http://gpb.big.ac.cn/news/1020))
 - Lili Jiang\#, **Sirong Chen\#(2023级硕士)**, Yuanhui Wu,  **Da Zhou\***,  Lihua Duan\*.  [Prediction of coronary heart disease in gout patients using machine learning models.](http://www.aimspress.com/article/doi/10.3934/mbe.2023212) *Mathematical Biosciences and Engineering*, 20(3) (2023): 4574-4591.
@@ -34,7 +34,7 @@ permalink: /publications/
 
 **AI for Chemistry/Machine Learning**
 
-- **Zhuoying Xu(2021级硕士)\#**, **Yingjun Zhu（2021级硕士）\#**, Binbin Hong, Xinlin Wu, Jingwen Zhang, **Da Zhou\***, Yu Liu\*. [Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance.](https://www.nature.com/articles/s44260-024-00015-x) *npj Complexity*, 1, 15(2024).
+- **Zhuoying Xu(2021级硕士)\#**, **Yingjun Zhu（2021级硕士）\#**, Binbin Hong, Xinlin Wu, Jingwen Zhang, **Da Zhou\***, Yu Liu\*. [Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance.](https://www.nature.com/articles/s44260-024-00015-x) *npj Complexity*, 1, 15(2024). ([工作介绍](https://mp.weixin.qq.com/s/Onzq5t2Rptly4z270DviZw))
 - Xinru He\#, Yuming Su\#, Jieyu Zhu\#, Nan Fang, YangTao Chen, Huichong Liu, **Da Zhou\***, Cheng Wang\*. [Uncovering the influence of the modifier redox potential on CO2 reduction through combined data-driven machine learning and hypothesis-driven experimentation.](https://doi.org/10.1039/D3TA03115B) 	*Journel of Materials Chemistry A*, 11(2023): 18106-18114. （入选该杂志2023年热点文章 HOT Papers）
 - **Liang Zhang(2020级博士)**, Longqiang Yi, Yu Liu, Cheng wang, **Da Zhou\***. [Motif Entropy Graph Kernel.](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002443) *Pattern Recognition*, 140 (2023): 109544. 
 - Yuming Su\#, Yiheng Dai\#, Yifan Zeng, Caiyun Wei, Yangtao Chen, Fuchun Ge, Peikun Zheng, **Da Zhou\***, Pavlo O Dral\*, Cheng Wang\*. [Interpretable Machine Learning of Two-Photon Absorption.](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204902) *Advanced Science*, 10(8) (2023): 2204902.
