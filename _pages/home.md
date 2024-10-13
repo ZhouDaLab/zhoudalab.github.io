@@ -84,6 +84,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***ACS Applied Materials & Interfaces***,  
 &emsp;***PLoS Computational Biology***,  
 &emsp;***Physical Review E***,  
+&emsp;***中国科学：数学***,  
 &emsp;***npj Systems Biology and Applications***,  
 &emsp;***Journal of Theoretical Biology***,  
 &emsp;***Journal of Computational Biology***,  
