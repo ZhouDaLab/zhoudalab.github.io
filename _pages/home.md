@@ -82,6 +82,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Patterns***,  
 &emsp;***IEEE Transactions on Neural Networks and Learning Systems***,  
 &emsp;***ACS Applied Materials & Interfaces***,  
+&emsp;***Bioinformatics***,  
 &emsp;***PLoS Computational Biology***,  
 &emsp;***Physical Review E***,  
 &emsp;***中国科学：数学***,  
