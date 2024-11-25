@@ -97,7 +97,7 @@
   info: Master student (2023-)
   email: xx
   number_educ: 1
-  education1: Application of machine learning in power systems
+  education1: Graph machine learning
   
 - name: Xiaoru Xu (许小如)
   photo: xuxiaoru.jpg
@@ -111,25 +111,25 @@
   info: Master student (2024-)
   email: xx
   number_educ: 1
-  education1: 
+  education1: AI for chemistry
 
 - name: Jiayi Li (李佳怡)
   photo: lijiayi.jpg
   info: Master student (2024-)
   email: xx
   number_educ: 1
-  education1: 
+  education1: Application of machine learning in power systems
 
 - name: Yujie Zhou (周于杰)
   photo: zhouyujie.jpg
   info: Master student (2024-)
   email: xx
   number_educ: 1
-  education1: 
+  education1: Application of machine learning in medicine
 
 - name: Yiping Wang (汪依萍)
   photo: wangyiping.jpg
   info: Master student (2024-)
   email: xx
   number_educ: 1
-  education1: 
+  education1: Bioinformatics
