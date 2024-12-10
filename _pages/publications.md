@@ -14,6 +14,7 @@ permalink: /publications/
 
 **Computational Biology/Mathematical Biology/Bioinformatics**
 
+- **Shaoqing Chen(2021级博士)\***, Zheng Hu, **Da Zhou\***. Modeling Combination Chemo-Immunotherapy for Heterogeneous Tumors. *Quantitative Biology*.
 - Shuli Chen, **Yuman Wang(2018级硕士，2021级博士)**, **Da Zhou\***, Jie Hu\*. Bayesian inference of phenotypic plasticity of cancer cells based on dynamic model for temporal cell proportion Data. *Biometrical Journal*.
 -  **Shaoqing Chen(2021级博士)\#**, Duo Xie\#, Jiguang Wang, Zheng Hu\*, **Da Zhou\***. [Frequency-dependent selection of neoantigens fosters tumor immune escape and predicts immunotherapy response.](https://www.nature.com/articles/s42003-024-06460-7) *Communications Biology*, 7(2024): 770.
 - Guohui Shi\#, Yi Dai#, **Da Zhou\#**, Mengmeng Chen, Jiaqi Zhang, **Yilong Bi(2018级硕士)**, Shuai Liu, Qi Wu\*. [An alignment- and reference-free strategy using k-mer present pattern for population genomic analyses.](https://www.tandfonline.com/doi/citedby/10.1080/21501203.2024.2358868?scroll=top&needAccess=true) *Mycology*, (2024).
