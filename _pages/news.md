@@ -7,6 +7,7 @@ permalink: /news/
 ---
 ### 2024年
 
+- 课题组与胡政老师课题组合作论文《Modeling Combination Chemo-Immunotherapy for Heterogeneous Tumors》被Quantitative Biology杂志接收。
 - 课题组与胡杰老师课题组合作论文《Bayesian Inference of Phenotypic Plasticity of Cancer Cells Based on Dynamic Model for Temporal Cell Proportion Data》被Biometrical Journal杂志接收(conditional)。
 - 北京大学丁剑教授来访并做名家讲堂报告；上海交通大学陈新兴副教授、北京交通大学薛晓峰副教授来访。
 - 加州大学尔湾分校聂青教授来访，并做天元数学东南中心名家讲堂报告。
