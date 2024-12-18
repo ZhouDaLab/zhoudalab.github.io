@@ -7,6 +7,7 @@ permalink: /news/
 ---
 ### 2024年
 
+- 课题组周达老师，谭梦凡，陈思蓉参加2024年度福建省生物数学会年会。
 - 课题组与胡政老师课题组合作论文《Modeling Combination Chemo-Immunotherapy for Heterogeneous Tumors》被Quantitative Biology杂志接收。
 - 课题组与胡杰老师课题组合作论文《Bayesian Inference of Phenotypic Plasticity of Cancer Cells Based on Dynamic Model for Temporal Cell Proportion Data》被Biometrical Journal杂志接收(conditional)。
 - 北京大学丁剑教授来访并做名家讲堂报告；上海交通大学陈新兴副教授、北京交通大学薛晓峰副教授来访。
