@@ -7,7 +7,7 @@ permalink: /news/
 ---
 ### 2024年
 
-- 周达老师作为参与人（《重学科交叉 融科教一体 ——健康医疗大数据创新型人才培养的实践与成效》，韩家淮、朱建平、李奇渊、俞容山、周达、张杰、王连生、童梦莎）荣获福建省教学成果奖。
+- 周达老师作为参与人（《重学科交叉 融科教一体 ——健康医疗大数据创新型人才培养的实践与成效》，韩家淮、朱建平、李奇渊、俞容山、周达、张杰、王连生、童梦莎）荣获厦门大学教学成果奖。
 - 课题组周达老师，谭梦凡，陈思蓉参加2024年度福建省生物数学会年会。
 - 课题组与胡政老师课题组合作论文《Modeling Combination Chemo-Immunotherapy for Heterogeneous Tumors》被Quantitative Biology杂志接收。
 - 课题组与胡杰老师课题组合作论文《Bayesian Inference of Phenotypic Plasticity of Cancer Cells Based on Dynamic Model for Temporal Cell Proportion Data》被Biometrical Journal杂志接收(conditional)。
