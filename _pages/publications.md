@@ -36,6 +36,7 @@ permalink: /publications/
 
 **AI for Chemistry/Machine Learning**
 
+- Yan Shen, Nan Fang, **Xinru Liu(2023级博士)**, Yu Ling, Yuming Su, Tian Tan, Feng Chen, He Lin, Boxuan Zhao, Jin Wang, Duanhui Si, Shunji Xie, Ye Wang, **Da Zhou\***, Teng Zhang\*, Rong Cao\*, Cheng Wang\*. Observation of Metal-Organic Interphase in Cu-based Electrochemical CO2-to-Ethanol Conversion. Nature Communications.
 - **Zhuoying Xu(2021级硕士)\#**, **Yingjun Zhu（2021级硕士）\#**, Binbin Hong, Xinlin Wu, Jingwen Zhang, **Da Zhou\***, Yu Liu\*. [Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance.](https://www.nature.com/articles/s44260-024-00015-x) *npj Complexity*, 1, 15(2024). ([工作介绍](https://mp.weixin.qq.com/s/Onzq5t2Rptly4z270DviZw)) ([被选为Nature Portfolio’s Nobel Prize in Physics 2024 cross-journal collection](https://www.nature.com/collections/ehbjaifcgc))
 - Xinru He\#, Yuming Su\#, Jieyu Zhu\#, Nan Fang, YangTao Chen, Huichong Liu, **Da Zhou\***, Cheng Wang\*. [Uncovering the influence of the modifier redox potential on CO2 reduction through combined data-driven machine learning and hypothesis-driven experimentation.](https://doi.org/10.1039/D3TA03115B) 	*Journel of Materials Chemistry A*, 11(2023): 18106-18114. （入选该杂志2023年热点文章 HOT Papers）
 - **Liang Zhang(2020级博士)**, Longqiang Yi, Yu Liu, Cheng wang, **Da Zhou\***. [Motif Entropy Graph Kernel.](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002443) *Pattern Recognition*, 140 (2023): 109544. 
