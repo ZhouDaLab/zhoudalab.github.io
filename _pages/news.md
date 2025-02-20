@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 课题组与汪骋老师课题组合作论文《Observation of Metal-Organic Interphase in Cu-based Electrochemical CO2-to-Ethanol Conversion》被Nature Communications杂志接收。
 - 周达老师参加北京师范大学珠海校区主办的《智能与系统涌现青年论坛暨产业研讨会》，并作学术报告。
 
 ### 2024年
