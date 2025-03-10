@@ -8,6 +8,8 @@ permalink: /news/
 
 ### 2025年
 
+- 周达老师受邀访问武汉工程大学参加数据科学与计算系统生物学研讨会，并作会议报告。
+- 课题组与胡政老师课题组合作论文《Single-cell phylodynamic inference of stem cell differentiation and tumor evolution》被Cell Systems杂志接收。
 - 课题组与汪骋老师课题组合作论文《Observation of Metal-Organic Interphase in Cu-based Electrochemical CO2-to-Ethanol Conversion》被Nature Communications杂志接收。
 - 周达老师参加北京师范大学珠海校区主办的《智能与系统涌现青年论坛暨产业研讨会》，并作学术报告。
 
