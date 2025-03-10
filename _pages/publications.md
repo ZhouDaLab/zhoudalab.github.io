@@ -14,6 +14,7 @@ permalink: /publications/
 
 **Computational Biology/Mathematical Biology/Bioinformatics**
 
+- **Kun Wang(2019级硕士，2022级博士)**, Zhaolian Lu, Zeqi Yao, Xionglei He, Zheng Hu\*, **Da Zhou\***. Single-cell phylodynamic inference of stem cell differentiation and tumor evolution. *Cell Systems*.
 - **Shaoqing Chen(2021级博士)\***, Zheng Hu, **Da Zhou\***. Modeling combination chemo-immunotherapy for heterogeneous tumors. *Quantitative Biology*.
 - Shuli Chen, **Yuman Wang(2018级硕士，2021级博士)**, **Da Zhou\***, Jie Hu\*. Bayesian inference of phenotypic plasticity of cancer cells based on dynamic model for temporal cell proportion Data. *Biometrical Journal*.
 -  **Shaoqing Chen(2021级博士)\#**, Duo Xie\#, Jiguang Wang, Zheng Hu\*, **Da Zhou\***. [Frequency-dependent selection of neoantigens fosters tumor immune escape and predicts immunotherapy response.](https://www.nature.com/articles/s42003-024-06460-7) *Communications Biology*, 7(2024): 770.
