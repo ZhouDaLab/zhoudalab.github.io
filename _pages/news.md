@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 课题组与汪骋老师课题组合作论文《Anomaly Detection Algorithm for Searching Selective Catalyst Differentiating Linear and Cyclic Alkanes in Oxidation》被Chinese Journal of Chemistry杂志接收。
 - 周达老师受邀访问武汉工程大学参加数据科学与计算系统生物学研讨会，并作会议报告。
 - 课题组与胡政老师课题组合作论文《Clonal expansion dictates the efficacy of mitochondrial lineage tracing in single cells》被Genome Biology杂志接收。
 - 课题组与胡政老师课题组合作论文《Single-cell phylodynamic inference of stem cell differentiation and tumor evolution》被Cell Systems杂志接收。
