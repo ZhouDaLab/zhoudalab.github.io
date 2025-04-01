@@ -9,6 +9,7 @@ permalink: /news/
 ### 2025年
 
 - 北京大学前沿交叉学科研究院周沛劼研究员访问课题组。
+- 课题组与胡杰老师课题组合作论文《Bayesian Inference of Phenotypic Plasticity of Cancer Cells Based on Dynamic Model for Temporal Cell Proportion Data》被Biometrical Journal杂志接收。
 - 课题组与汪骋老师课题组合作论文《Anomaly Detection Algorithm for Searching Selective Catalyst Differentiating Linear and Cyclic Alkanes in Oxidation》被Chinese Journal of Chemistry杂志接收。
 - 周达老师受邀访问武汉工程大学参加数据科学与计算系统生物学研讨会，并作会议报告。
 - 课题组与胡政老师课题组合作论文《Clonal expansion dictates the efficacy of mitochondrial lineage tracing in single cells》被Genome Biology杂志接收。
@@ -21,7 +22,6 @@ permalink: /news/
 - 周达老师作为参与人（《重学科交叉 融科教一体 ——健康医疗大数据创新型人才培养的实践与成效》，韩家淮、朱建平、李奇渊、俞容山、周达、张杰、王连生、童梦莎）荣获省级教学成果特等奖。
 - 课题组周达老师，谭梦凡，陈思蓉参加2024年度福建省生物数学会年会。
 - 课题组与胡政老师课题组合作论文《Modeling Combination Chemo-Immunotherapy for Heterogeneous Tumors》被Quantitative Biology杂志接收。
-- 课题组与胡杰老师课题组合作论文《Bayesian Inference of Phenotypic Plasticity of Cancer Cells Based on Dynamic Model for Temporal Cell Proportion Data》被Biometrical Journal杂志接收(conditional)。
 - 北京大学丁剑教授来访并做名家讲堂报告；上海交通大学陈新兴副教授、北京交通大学薛晓峰副教授来访。
 - 加州大学尔湾分校聂青教授来访，并做天元数学东南中心名家讲堂报告。
 - 课题组举办2024年“定量生物学：数学建模与统计推断”学术研讨会。
