@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 周达老师参加天元数学东南中心主办的“随机动力系统与机器学习研讨会”。
 - 北京大学前沿交叉学科研究院周沛劼研究员访问课题组。
 - 课题组与胡杰老师课题组合作论文《Bayesian Inference of Phenotypic Plasticity of Cancer Cells Based on Dynamic Model for Temporal Cell Proportion Data》被Biometrical Journal杂志接收。
 - 课题组与汪骋老师课题组合作论文《Anomaly Detection Algorithm for Searching Selective Catalyst Differentiating Linear and Cyclic Alkanes in Oxidation》被Chinese Journal of Chemistry杂志接收。
