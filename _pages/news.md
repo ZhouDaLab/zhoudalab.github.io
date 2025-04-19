@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 课题组与胡杰老师课题组合作论文《Inferring Absolute Cell Numbers from Relative Proportion in Stochastic Models with Cell Plasticity》被Journal of Theoretical Biology杂志接收。
 - 周达老师参加天元数学东南中心主办的“随机动力系统与机器学习研讨会”。
 - 北京大学前沿交叉学科研究院周沛劼研究员访问课题组。
 - 课题组与胡杰老师课题组合作论文《Bayesian Inference of Phenotypic Plasticity of Cancer Cells Based on Dynamic Model for Temporal Cell Proportion Data》被Biometrical Journal杂志接收。
