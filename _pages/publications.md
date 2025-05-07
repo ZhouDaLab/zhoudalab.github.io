@@ -14,7 +14,7 @@ permalink: /publications/
 
 **Computational Biology/Mathematical Biology/Bioinformatics**
 
-- **Yuman Wang(2018级硕士，2021级博士)**, Shuli Chen, Jie Hu\*, **Da Zhou\***. [Inferring absolute cell numbers from relative proportion in stochastic models with cell plasticity.](https://doi.org/10.1016/j.jtbi.2025.112133) *Journal of Theoretical Biology*.
+- **Yuman Wang(2018级硕士，2021级博士)**, Shuli Chen, Jie Hu\*, **Da Zhou\***. [Inferring absolute cell numbers from relative proportion in stochastic models with cell plasticity.](https://doi.org/10.1016/j.jtbi.2025.112133) *Journal of Theoretical Biology*. 608, 7 (2025), 112133.
 - Shuli Chen, **Yuman Wang(2018级硕士，2021级博士)**, **Da Zhou\***, Jie Hu\*. [Bayesian inference of phenotypic plasticity of cancer cells based on dynamic model for temporal cell proportion Data.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/bimj.70055) *Biometrical Journal*. 2025; 67:e70055.
 - **Kun Wang(2019级硕士，2022级博士)**, Zhaolian Lu, Zeqi Yao, Xionglei He, Zheng Hu\*, **Da Zhou\***. [Single-cell phylodynamic inference of stem cell differentiation and tumor evolution.](https://doi.org/10.1016/j.cels.2025.101244) *Cell Systems*, 16(2025), 101244. ([工作介绍](https://mp.weixin.qq.com/s/R57Fjp7p5kdme08PJ2IXHw))
 - Xin Wang\#, **Kun Wang(2019级硕士，2022级博士)\#**, Weixing Zhang\#, Zhongjie Tang, Hao Zhang, Yuying Cheng, Da Zhou, Chao Zhang, Wen-Zhao Zhong, Qing Ma\*, Jin Xu\*, Zheng Hu\*. [Clonal expansion dictates the efficacy of mitochondrial lineage tracing in single cells](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03540-7). *Genome Biology*, 26(2025): 70.  ([工作介绍](https://mp.weixin.qq.com/s/S_n3lnr3vEI8gALwZm5mdw))
