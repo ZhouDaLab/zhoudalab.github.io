@@ -37,8 +37,9 @@ permalink: /publications/
 - **Da Zhou\*** and Hong Qian\*. [Fixation, transient landscape, and diffusion dilemma in stochastic evolutionary game dynamics.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.031907) *Physical Review E* 84.3 (2011): 031907.
 - **Da Zhou\***, Bin Wu, and Hao Ge. [Evolutionary stability and quasi-stationary strategy in stochastic evolutionary game dynamics.](https://www.sciencedirect.com/science/article/pii/S0022519310001414) *Journal of Theoretical Biology* 264.3 (2010): 874-881.
 
-**AI for Chemistry/Machine Learning**
+**AI for Chemistry/Graph Machine Learning**
 
+- **Xinru Liu(2023级博士)**, Weide Li, **Da Zhou***\. DGI-GRU: Integrating dynamic graph convolution for enhanced spatio-temporal information extraction. Neurocomputing.
 - **Jiaxing Liu（人工智能研究院2022级硕士，与汪骋教授联合培养）**, Pengkun Su, Bingling Dai, **Da Zhou\***, Cheng Wang\*. [Anomaly Detection Algorithm for Searching Selective Catalyst Differentiating Linear and Cyclic Alkanes in Oxidation](https://onlinelibrary.wiley.com/doi/10.1002/cjoc.70046). Chinese Journal of Chemistry.
 - Yan Shen, Nan Fang, **Xinru Liu(2023级博士)**, Yu Ling, Yuming Su, Tian Tan, Feng Chen, He Lin, Boxuan Zhao, Jin Wang, Duanhui Si, Shunji Xie\*, Ye Wang\*, **Da Zhou\***, Teng Zhang\*, Rong Cao\*, Cheng Wang\*. [Observation of Metal-Organic Interphase in Cu-based Electrochemical CO2-to-Ethanol Conversion.](https://www.nature.com/articles/s41467-025-57221-x) *Nature Communications*, 16 (2025): 2073. ([工作介绍](https://mp.weixin.qq.com/s/6pcBx64TjdRTwt8jgMmjHg))
 - **Zhuoying Xu(2021级硕士)\#**, **Yingjun Zhu（2021级硕士）\#**, Binbin Hong, Xinlin Wu, Jingwen Zhang, **Da Zhou\***, Yu Liu\*. [Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance.](https://www.nature.com/articles/s44260-024-00015-x) *npj Complexity*, 1, 15(2024). ([工作介绍](https://mp.weixin.qq.com/s/Onzq5t2Rptly4z270DviZw)) ([被选为Nature Portfolio’s Nobel Prize in Physics 2024 cross-journal collection](https://www.nature.com/collections/ehbjaifcgc))
