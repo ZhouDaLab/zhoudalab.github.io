@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 周达老师荣获同德奖教金-科学探索奖。
 - 周达老师主持国网福建省电力有限公司营销服务中心项目《国网福建营销服务中心2025年电力数据赋能企业管理与城市智慧治理研究》。
 - 课题组与胡杰老师课题组合作论文《Inferring Absolute Cell Numbers from Relative Proportion in Stochastic Models with Cell Plasticity》被Journal of Theoretical Biology杂志接收。
 - 周达老师参加天元数学东南中心主办的“随机动力系统与机器学习研讨会”。
@@ -107,7 +108,7 @@ permalink: /news/
 - 课题组网站上线(https://zhoudalab.github.io/)。
 - 欢迎关企、王恺、苏杰彬、刘薇、陶宴宁进入课题组。
 - 课题组论文《Effect of dedifferentiation on noise propagation in cellular hierarchy》在美国物理学会Physical Review E杂志发表。
-- 周达老师获得同德奖教金。
+- 周达老师获得同德奖教金-教书育人奖。
 - 王琨、陈少卿赴深圳先进技术研究院胡政研究院课题组访问。
 - 华南理工大学数学学院刘锐教授受邀做天元数学东南中心Colloquium在线报告。
 - 厦大已毕业校友、美国匹兹堡大学李宇家博士受邀做在线报告。
