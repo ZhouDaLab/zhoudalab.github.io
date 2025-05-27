@@ -13,8 +13,8 @@ Email：zhouda@xmu.edu.cn
 
 
 周达，厦门大学数学科学学院 教授/博士生导师  
+厦门大学数学科学学院 副院长
 厦门大学健康医疗大数据国家研究院 副院长   
-厦门大学数学科学学院概率统计系 主任   
 
 ### Wechat Official QR code (课题组微信公众号)
 <img src="{{ site.url }}{{ site.baseurl }}/images/qrcode_wechat.jpg" alt="Slide 1" width="200" height="200" />
@@ -49,6 +49,7 @@ Email：zhouda@xmu.edu.cn
 	
 
 ### Research Funding 
+- 2025/06 - 2026/05，**SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
 - 2025/01 - 2028/12, **NSFC Project** (国家自然科学基金面上项目)，PI.
 - 2024/06 - 2025/04, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
 - 2023/04 - 2024/03, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
