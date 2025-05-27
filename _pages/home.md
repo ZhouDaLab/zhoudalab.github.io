@@ -49,7 +49,7 @@ Email：zhouda@xmu.edu.cn
 	
 
 ### Research Funding 
-- 2025/06 - 2026/05，**SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
+- 2025/06 - 2026/05, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
 - 2025/01 - 2028/12, **NSFC Project** (国家自然科学基金面上项目)，PI.
 - 2024/06 - 2025/04, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
 - 2023/04 - 2024/03, **SGFJ Project** (国网福建省电力有限公司横向项目)，PI. 
