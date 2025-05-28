@@ -9,7 +9,7 @@ permalink: /news/
 ### 2025年
 
 - 周达老师任数学科学学院副院长。
-- 谭梦凡同学第十五届应用动力系统最新进展国际会议。
+- 谭梦凡同学参加第十五届应用动力系统最新进展国际会议。
 - 周达老师荣获同德奖教金-科学探索奖。
 - 周达老师主持国网福建省电力有限公司营销服务中心项目《国网福建营销服务中心2025年电力数据赋能企业管理与城市智慧治理研究》。
 - 课题组与胡杰老师课题组合作论文《Inferring Absolute Cell Numbers from Relative Proportion in Stochastic Models with Cell Plasticity》被Journal of Theoretical Biology杂志接收。
