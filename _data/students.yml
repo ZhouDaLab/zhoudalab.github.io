@@ -7,20 +7,6 @@
 #  education2:
 #  education3:
 #  education4:
-
-- name: Yuman Wang (王玉曼)
-  photo: wangyuman.jpg
-  info: PhD student (2021-)
-  email: xx
-  number_educ: 1
-  education1: Computational biology
-
-- name: Shaoqin Chen (陈少卿)
-  photo: chenshaoqing.jpg
-  info: PhD student (2021-)
-  email: xx
-  number_educ: 1
-  education1: Computational biology
   
 - name: Kun Wang (王琨)
   photo: wangkun.jpg
@@ -31,59 +17,38 @@
 
 - name: Qi Guan (关企)
   photo: guanqi.jpg
-  info: PhD student, (2022-)
+  info: PhD student (2022-)
   email: xx
   number_educ: 1
   education1: Bioinformatics (jointly supervised by Prof. Jie Hu)
 
 - name: Xinru Liu (刘心如)
   photo: liuxinru.jpg
-  info: PhD student, (2023-)
+  info: PhD student (2023-)
   email: xx
   number_educ: 1
   education1: Graph machine learning
 
 - name: Mengfan Tan (谭梦凡)
   photo: tanmengfan.jpg
-  info: PhD student, (2024-)
+  info: PhD student (2024-)
   email: xx
   number_educ: 1
   education1: Mathematical biology
 
 - name: Rui Meng (孟蕊)
   photo: mengrui.jpg
-  info: PhD student, (2024-)
+  info: PhD student (2024-)
   email: xx
   number_educ: 1
   education1: Bioinformatics
-  
-- name: Kai Wang (王恺)
-  photo: wangkai.jpg
-  info: Master student (2022-)
+
+- name: Zongyong Hu (胡宗泳)
+  photo: huzongyong.jpg
+  info: PhD student (2025-)
   email: xx
   number_educ: 1
-  education1: Application of machine learning in computer graphics
-  
-- name: Wei Liu (刘薇)
-  photo: liuwei.jpg
-  info: Master student (2022-)
-  email: xx
-  number_educ: 1
-  education1: Application of machine learning in power systems
-  
-- name: Jiebin Su (苏杰彬)
-  photo: sujiebin.jpg
-  info: Master student (2022-)
-  email: xx
-  number_educ: 1
-  education1: Application of graph machine learning in chemistry
-  
-- name: Yanning Tao (陶宴宁)
-  photo: taoyanning.jpg
-  info: Master student (2022-)
-  email: xx
-  number_educ: 1
-  education1: Application of machine learning in power systems
+  education1: Graph machine learning
   
 - name: Sirong Chen (陈思蓉)
   photo: chensirong.jpg
@@ -91,13 +56,6 @@
   email: xx
   number_educ: 1
   education1: Bioinformatics
-  
-- name: Zongyong Hu (胡宗泳)
-  photo: huzongyong.jpg
-  info: Master student (2023-)
-  email: xx
-  number_educ: 1
-  education1: Graph machine learning
   
 - name: Xiaoru Xu (许小如)
   photo: xuxiaoru.jpg
@@ -133,3 +91,31 @@
   email: xx
   number_educ: 1
   education1: Bioinformatics
+
+- name: Yiming Chen (陈一鸣)
+  photo: chenyiming.jpg
+  info: Master student (2025-)
+  email: xx
+  number_educ: 1
+  education1: 
+
+- name: Ziang Wu (吴子昂)
+  photo: wuziang.jpg
+  info: Master student (2025-)
+  email: xx
+  number_educ: 1
+  education1: 
+
+- name: Xinting Yuan (袁馨婷)
+  photo: yuanxinting.jpg
+  info: Master student (2025-)
+  email: xx
+  number_educ: 1
+  education1: 
+
+- name: Dinghua Zhang (张丁骅)
+  photo: zhangdinghua.jpg
+  info: Master student (2025-)
+  email: xx
+  number_educ: 1
+  education1: 
