@@ -7,7 +7,48 @@
 #  education2:
 #  education3:
 #  education4:
+- name: Yuman Wang (王玉曼)
+  photo: bio-photo.jpg
+  info: Doctor 2021-2025
+  email: xx
+  number_educ: 1
+  education1: 
 
+- name: Shaoqin Chen (陈少卿)
+  photo: bio-photo.jpg
+  info: Doctor 2021-2025
+  email: xx
+  number_educ: 1
+  education1: 
+
+- name: Kai Wang (王恺)
+  photo: bio-photo.jpg
+  info: Master, 2022-2025
+  email: xx
+  number_educ: 1
+  education1: 京东集团 
+  
+- name: Wei Liu (刘薇)
+  photo: bio-photo.jpg
+  info: Master, 2022-2025
+  email: xx
+  number_educ: 1
+  education1: 厦门冲之文化传播有限公司
+  
+- name: Jiebin Su (苏杰彬)
+  photo: bio-photo.jpg
+  info: Master, 2022-2025
+  email: xx
+  number_educ: 1
+  education1: 马上消费金融
+  
+- name: Yanning Tao (陶宴宁)
+  photo: bio-photo.jpg
+  info: Master, 2022-2025
+  email: xx
+  number_educ: 1
+  education1: 蚂蚁集团
+  
 - name: Liang Zhang (张良)
   photo: bio-photo.jpg
   info: Doctor, 2020-2024
