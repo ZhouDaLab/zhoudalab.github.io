@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 课题组论文《DGI-GRU: Integrating dynamic graph convolution for enhanced spatio-temporal information extraction》被Neurocomputing杂志接收。
 - 周达老师任数学科学学院副院长。
 - 谭梦凡同学参加第十五届应用动力系统最新进展国际会议。
 - 周达老师荣获同德奖教金-科学探索奖。
