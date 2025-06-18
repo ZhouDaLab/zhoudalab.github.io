@@ -66,7 +66,8 @@ Email：zhouda@xmu.edu.cn
 - **厦门大学教学技能比赛特等奖**, 2021.
 
 ### Services  
-- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-. （厦门大学数学科学学院概率与数理统计系主任）
+- **Vice Director**, School of Mathematical Sciences, 2025-. (厦门大学数学科学学院 副院长) 
+- **Director**, Department of Probability and Statistics, School of Mathematical Sciences, Xiamen University, 2017-2025. （厦门大学数学科学学院概率与数理统计系主任）
 - **Vice Director**, National Institute for Data Science in Health and Medicine, Xiamen University, Xiamen University, 2023-. （厦门大学健康医疗大数据国家研究院 副院长）
 - **Council Member**, The Computational Systems Biology Division of the Operations Research Society of China, 2024-. (中国运筹学会计算系统生物学分会理事)
 - **Council Member**, Mathematical Life Science Committee of China Society for Industrial and Applied Mathematics (CSIAM), 2017-. (中国工业与应用数学学会数学生命科学专委会理事)
