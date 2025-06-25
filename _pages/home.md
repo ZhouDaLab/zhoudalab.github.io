@@ -75,6 +75,7 @@ Email：zhouda@xmu.edu.cn
 - **Council Member**， Statistical Interdisciplinary Research Section of the Chinese Association for Applied Statistics， 2023-. （中国现场统计研究会统计交叉科学研究分会理事）
 - **Executive Council Member**, Fujian Society for Mathematical Biology, 2023-. (福建省生物数学学会常务理事)
 - **Secretary General**,  Xiamen Mathematical Society, 2023-. (厦门市数学学会秘书长)
+- **Associate Editor**, Discrete and Continuous Dynamical Systems - Series C (DCDS-C): AI for Science (DCDS-C: AI4S). 2025-. 
 
 ### Referee  
 
