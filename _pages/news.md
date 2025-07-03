@@ -8,13 +8,15 @@ permalink: /news/
 
 ### 2025年
 
-- 
+- 欢迎陈一鸣、吴子昂、张丁骅、袁馨婷加入课题组！
+- 周达老师、谭梦凡同学、孟蕊同学参加第四届数学生命科学大会（中国人民大学）。
 - 周达老师参加北京国际数学中心主办的International Workshop on Systems Learning of Single Cells。
+- 胡宗泳同学赴山西太原参加中国统计学会2025数据科学大会。
 - 祝贺课题组王玉曼同学、陈少卿同学取得博士学位；王恺同学、刘薇同学、苏杰彬同学、陶宴宁同学取得硕士学位；黄典燊、赖杰鹏、阮俊玮、田雨坤、饶玄麟取得学士学位。
 - 周达老师任Discrete and Continuous Dynamical Systems - Series C (DCDS-C): AI for Science (DCDS-C: AI4S)杂志Associate Editor。
 - 课题组论文《DGI-GRU: Integrating dynamic graph convolution for enhanced spatio-temporal information extraction》被Neurocomputing杂志接收。
 - 周达老师任数学科学学院副院长。
-- 谭梦凡同学参加第十五届应用动力系统最新进展国际会议。
+- 谭梦凡同学参加第十五届应用动力系统最新进展国际会议（集美大学）。
 - 周达老师荣获同德奖教金-科学探索奖。
 - 周达老师主持国网福建省电力有限公司营销服务中心项目《国网福建营销服务中心2025年电力数据赋能企业管理与城市智慧治理研究》。
 - 课题组与胡杰老师课题组合作论文《Inferring Absolute Cell Numbers from Relative Proportion in Stochastic Models with Cell Plasticity》被Journal of Theoretical Biology杂志接收。
