@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 课题组论文《Modeling the impact of dedifferentiation on colorectal cancer growth and chemo-immunotherapy response》被Bulletin of Mathematical Biology杂志接收。
 - 欢迎陈一鸣、吴子昂、张丁骅、袁馨婷加入课题组！
 - 周达老师、关企同学参加第二届人工智能与生物医学数据建模分析研讨会（新疆医科大学）。
 - 周达老师、谭梦凡同学、孟蕊同学参加第四届数学生命科学大会（中国人民大学）。
