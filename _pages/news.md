@@ -11,7 +11,7 @@ permalink: /news/
 - 课题组论文《Modeling the impact of dedifferentiation on colorectal cancer growth and chemo-immunotherapy response》被Bulletin of Mathematical Biology杂志接收。
 - 欢迎陈一鸣、吴子昂、张丁骅、袁馨婷加入课题组！
 - 周达老师、关企同学参加第二届人工智能与生物医学数据建模分析研讨会（新疆医科大学）。
-- 周达老师、谭梦凡同学、孟蕊同学参加第四届数学生命科学大会（中国人民大学）。
+- 周达老师、王玉曼同学、陈少卿同学、谭梦凡同学、孟蕊同学参加第四届数学生命科学大会（中国人民大学）。
 - 周达老师参加北京国际数学中心主办的International Workshop on Systems Learning of Single Cells。
 - 胡宗泳同学赴山西太原参加中国统计学会2025数据科学大会。
 - 祝贺课题组王玉曼同学、陈少卿同学取得博士学位；王恺同学、刘薇同学、苏杰彬同学、陶宴宁同学取得硕士学位；黄典燊、赖杰鹏、阮俊玮、田雨坤、饶玄麟取得学士学位。
