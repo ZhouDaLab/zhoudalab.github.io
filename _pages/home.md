@@ -76,6 +76,7 @@ Email：zhouda@xmu.edu.cn
 - **Executive Council Member**, Fujian Society for Mathematical Biology, 2023-. (福建省生物数学学会常务理事)
 - **Secretary General**,  Xiamen Mathematical Society, 2023-. (厦门市数学学会秘书长)
 - **Associate Editor**, Discrete and Continuous Dynamical Systems - Series C (DCDS-C): AI for Science (DCDS-C: AI4S). 2025-. 
+- **Editorial Board Members**, Scientific Reports. 2025-. 
 
 ### Referee  
 
