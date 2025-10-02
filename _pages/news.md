@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 周达老师当选ISCB-China首批理事。
 - 刘心如同学赴上海参加中国现场统计学会统计交叉科学研究分会年会。
 - 周达老师任Scientific Reports杂志编委。
 - 课题组论文《Modeling the impact of dedifferentiation on colorectal cancer growth and chemo-immunotherapy response》被Bulletin of Mathematical Biology杂志接收。
