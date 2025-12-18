@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2025年
 
+- 课题组论文《EvoST-GRU: A Dynamic Graph Spatio-Temporal Framework for Air Pollution Prediction》被Discrete and Continuous Dynamical Systems - Series C杂志接收。
 - 周达老师参加ISCB-China学术年会。
 - 周达老师访问南方科技大学生命科学学院。
 - 胡宗泳同学被北京中关村学院录取。
