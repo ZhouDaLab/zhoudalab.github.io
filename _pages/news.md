@@ -6,6 +6,10 @@ sitemap: false
 permalink: /news/
 ---
 
+### 2026年
+
+- 周达老师受邀参加有中科院深圳先进技术研究院主办的“2026合成生物学前沿交叉会议”。
+
 ### 2025年
 
 - 课题组论文《EvoST-GRU: A Dynamic Graph Spatio-Temporal Framework for Air Pollution Prediction》被Discrete and Continuous Dynamical Systems - Series C杂志接收。
