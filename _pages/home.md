@@ -118,6 +118,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Mathematical Biosciences***,  
 &emsp;***Biosystems***,  
 &emsp;***Theory in Biosciences***,  
+&emsp;***Electronic Research Archive***,  
 &emsp;***Frontiers in Oncology***,   
 &emsp;***Frontiers in Immunology***,   
 &emsp;***Frontiers in Energy***,   
