@@ -60,6 +60,7 @@ Email：zhouda@xmu.edu.cn
 - 2011/07 - 2013/07, **China Postdoctoral Science Foundation** (中国博士后科学基金), PI. 
 
 ### Awards and Honors  
+- **福建省教学成果特等奖**（排名第五）, 2025.
 - [**GBP评选的"中国生物信息学十大进展"**](http://gpb.big.ac.cn/news/1020), 2023.
 - **Tong De Award (同德奖教金)**, 2022.
 - **Tian Zhaowu Prize in interdisciplinary science (田昭武学科交叉奖)**, 2021.  
