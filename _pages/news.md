@@ -8,6 +8,8 @@ permalink: /news/
 
 ### 2026年
 
+- 周达老师访问青海民族大学数学与统计学院。
+- 课题组与方洲老师课题组合作论文《Feynman-Kac-inspired fixed-budget simulation method for growing cell populations》被SIAM Journal on Life Sciences接收。
 - 周达老师受邀参加中科院深圳先进技术研究院主办的“2026合成生物学前沿交叉会议”。
 
 ### 2025年
