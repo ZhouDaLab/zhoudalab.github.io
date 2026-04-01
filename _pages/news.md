@@ -11,10 +11,10 @@ permalink: /news/
 - 周达老师访问青海民族大学数学与统计学院。
 - 课题组与方洲老师课题组合作论文《Feynman-Kac-inspired fixed-budget simulation method for growing cell populations》被SIAM Journal on Life Sciences接收。
 - 周达老师受邀参加中科院深圳先进技术研究院主办的“2026合成生物学前沿交叉会议”。
+- 课题组论文《EvoST-GRU: A Dynamic Graph Spatio-Temporal Framework for Air Pollution Prediction》被Discrete and Continuous Dynamical Systems - Series I: Intelligence接收。
 
 ### 2025年
 
-- 课题组论文《EvoST-GRU: A Dynamic Graph Spatio-Temporal Framework for Air Pollution Prediction》被Discrete and Continuous Dynamical Systems - Series I: Intelligence接收。
 - 周达老师参加ISCB-China学术年会。
 - 周达老师访问南方科技大学生命科学学院。
 - 胡宗泳同学被北京中关村学院录取。
