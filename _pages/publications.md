@@ -14,6 +14,7 @@ permalink: /publications/
 
 **Computational Biology/Mathematical Biology/Bioinformatics**
 
+- **Mengfan Tan(2024级博士)**, **Shaoqing Chen(2025届博士毕业生)**, Chunjin Wei, **Da Zhou\***. Bistability and Noise-Induced Evasion in Tumor-Immune Dynamics with Antigen Accumulation and Immune Escape, accepted by SIAM Journal on Applied Mathematics.
 - **Yuman Wang(2018级硕士，2021级博士)\***, **Mengfan Tan(2024级博士)\***, **Da Zhou\***. [Modeling the Impact of Dedifferentiation on Colorectal Cancer Growth and Chemo-Immunotherapy Response.](https://link.springer.com/article/10.1007/s11538-025-01496-0) *Bulletin of Mathematical Biology*. 87, 113 (2025).
 - **Yuman Wang(2018级硕士，2021级博士)**, Shuli Chen, Jie Hu\*, **Da Zhou\***. [Inferring absolute cell numbers from relative proportion in stochastic models with cell plasticity.](https://doi.org/10.1016/j.jtbi.2025.112133) *Journal of Theoretical Biology*. 608, 7 (2025), 112133.
 - Shuli Chen, **Yuman Wang(2018级硕士，2021级博士)**, **Da Zhou\***, Jie Hu\*. [Bayesian inference of phenotypic plasticity of cancer cells based on dynamic model for temporal cell proportion Data.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/bimj.70055) *Biometrical Journal*. 2025; 67:e70055.
