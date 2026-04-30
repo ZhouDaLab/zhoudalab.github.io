@@ -8,7 +8,9 @@ permalink: /news/
 
 ### 2026年
 
+- 周达老师受邀访问集美大学理学院。
 - 周达老师受邀参加“医学数据驱动的数学生命科学问题讨论会——暨精准医学的多尺度因果理论与应用项目推进会”。
+- 谭梦凡同学参加第七届国际生物数学与医学应用研讨会（南京）。
 - 北京师范大学珠海校区刘宇副教授访问课题组。
 - 课题组论文《Bistability and Noise-Induced Evasion in Tumor-Immune Dynamics with Antigen Accumulation and Immune Escape》被SIAM Journal on Applied Mathematics杂志接收。
 - 周达老师主持上海吉联新软件股份有限公司横向课题《多式联运集装箱海运运价预测模型算法》。
