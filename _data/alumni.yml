@@ -7,6 +7,27 @@
 #  education2:
 #  education3:
 #  education4:
+- name: Kun Wang (王琨)
+  photo: bio-photo.jpg
+  info: Doctor 2022-2026
+  email: xx
+  number_educ: 1
+  education1: MD Anderson Cancer Center 博士后
+
+  - name: Sirong Chen (陈思蓉)
+  photo: bio-photo.jpg
+  info: Master 2023-2026
+  email: xx
+  number_educ: 1
+  education1: 腾讯深圳
+
+- name: Xiaoru Xu (许小如)
+  photo: bio-photo.jpg
+  info: Master 2023-2026
+  email: xx
+  number_educ: 1
+  education1: 腾讯广州
+
 - name: Yuman Wang (王玉曼)
   photo: bio-photo.jpg
   info: Doctor 2021-2025
