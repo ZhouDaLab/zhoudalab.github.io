@@ -85,6 +85,7 @@ Email：zhouda@xmu.edu.cn
 &emsp;***Physical Review Letters***,  
 &emsp;***National Science Review***,  
 &emsp;***Signal Transduction and Targeted Therapy***,  
+&emsp;***Genome Biology***,  
 &emsp;***Advanced Science***,  
 &emsp;***Patterns***,  
 &emsp;***Research***,  
