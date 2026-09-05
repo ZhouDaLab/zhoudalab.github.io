@@ -44,6 +44,20 @@
   number_educ: 1
   education1: Graph machine learning
 
+  - name: Zhonghe Huang (黄中鹤)
+  photo: huangzhonghe.jpg
+  info: PhD student (2026-)
+  email: xx
+  number_educ: 1
+  education1: Applied Statistics (jointly supervised by Prof. Wei Liang)
+
+  - name: Liping Xu (徐丽萍)
+  photo: xuliping.jpg
+  info: PhD student (2026-)
+  email: xx
+  number_educ: 1
+  education1: Bioinformatics
+
 - name: Ziwen Xu (徐子文)
   photo: xuziwen.jpg
   info: Master student (2024-)
@@ -99,20 +113,6 @@
   email: xx
   number_educ: 1
   education1: Intelligent Power Systems
-
-  - name: Zhonghe Huang (黄中鹤)
-  photo: huangzhonghe.jpg
-  info: PhD student (2026-)
-  email: xx
-  number_educ: 1
-  education1: Applied Statistics (jointly supervised by Prof. Wei Liang)
-
-  - name: Liping Xu (徐丽萍)
-  photo: xuliping.jpg
-  info: PhD student (2026-)
-  email: xx
-  number_educ: 1
-  education1: Bioinformatics
 
   - name: Jing Shao (邵婧)
   photo: shaojing.jpg
