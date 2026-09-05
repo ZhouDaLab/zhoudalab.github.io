@@ -44,14 +44,14 @@
   number_educ: 1
   education1: Graph machine learning
 
-  - name: Zhonghe Huang (黄中鹤)
+- name: Zhonghe Huang (黄中鹤)
   photo: huangzhonghe.jpg
   info: PhD student (2026-)
   email: xx
   number_educ: 1
   education1: Applied Statistics (jointly supervised by Prof. Wei Liang)
 
-  - name: Liping Xu (徐丽萍)
+- name: Liping Xu (徐丽萍)
   photo: xuliping.jpg
   info: PhD student (2026-)
   email: xx
@@ -114,30 +114,30 @@
   number_educ: 1
   education1: Intelligent Power Systems
 
-  - name: Jing Shao (邵婧)
+- name: Jing Shao (邵婧)
   photo: shaojing.jpg
   info: Master student (2026-)
   email: xx
   number_educ: 1
   education1: 
 
-  - name: Shiwei Gu (谷世巍)
+- name: Shiwei Gu (谷世巍)
   photo: gushiwei.jpg
   info: Master student (2026-)
   email: xx
   number_educ: 1
   education1:
 
-  - name: Siyu Li (李思羽)
+- name: Siyu Li (李思羽)
   photo: lisiyu.jpg
   info: Master student (2026-)
   email: xx
   number_educ: 1
   education1:
 
-  - name: Mengyao Zhang (张梦瑶)
+- name: Mengyao Zhang (张梦瑶)
   photo: zhangmengyao.jpg
   info: Master student (2026-)
   email: xx
   number_educ: 1
-  education1:Bioinformatics
+  education1: Bioinformatics
