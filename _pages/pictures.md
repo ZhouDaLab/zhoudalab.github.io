@@ -7,6 +7,9 @@ permalink: /pictures/
 
 
 ## 课题组合影
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026合影.jpg" width="570" height="430" />  
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026合影2.jpg" width="570" height="430" />  
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026北京校友合影.jpg" width="570" height="430" />  
 <img src="{{ site.url }}{{ site.baseurl }}/images/2025newterm1.jpg" width="570" height="430" />  
 <img src="{{ site.url }}{{ site.baseurl }}/images/2025newterm2.jpg" width="570" height="430" />  
 <img src="{{ site.url }}{{ site.baseurl }}/images/2023毕业合影.jpg" width="520" height="347" />  
