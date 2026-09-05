@@ -8,7 +8,8 @@ permalink: /news/
 
 ### 2026年
 
-- 课题组与胡政老师课题组合作综述论文《Towards a Quantitative Understanding of Cellular Dynamics via Lineage Tracing Inference》被CSIAM-LS杂志接收。
+- 课题组与胡杰老师合作论文《SPFuseRanker: A Multi-Importance Score Fusion Framework for Core Microbiome Identification in Metagenomic Data》被IEEE Transactions on Computational Biology and Bioinformatics杂志接收。
+- 课题组与胡政老师合作综述论文《Towards a Quantitative Understanding of Cellular Dynamics via Lineage Tracing Inference》被CSIAM-LS杂志接收。
 - 欢迎黄中鹤、徐丽萍、李思羽、邵婧、谷世巍、张梦瑶等六位同学进入课题组！
 - 课题组周达老师、谭梦凡、孟蕊参加第16届计算系统生物学国际学术会议（武汉）。
 - 课题组周达老师、谭梦凡、孟蕊、周于杰参加第七届CSIAM大数据与人工智能科学大会（厦门）。
