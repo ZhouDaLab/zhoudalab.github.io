@@ -1,3 +1,17 @@
-_site
-.sass-cache
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
 .jekyll-metadata
+.sass-cache/
+
+# Bundler local files
+.bundle/
+vendor/
+
+# Logs and local tooling
+*.log
+.ruby-lsp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
