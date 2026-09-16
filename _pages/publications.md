@@ -42,6 +42,7 @@ permalink: /publications/
 
 **AI for Chemistry/Graph Machine Learning**
 
+- **Zongyong Hu(2023级硕士)**, **Xinru Liu(2023级博士)\***, **Da Zhou\***. [EvoST-GRU: A dynamic graph spatio-temporal framework for air pollution prediction](https://www.aimsciences.org/article/doi/10.3934/dcdsi.A260102). *Discrete and Continuous Dynamical Systems-I: Intelligence*, 1 (1), 2026.
 - **Xinru Liu(2023级博士)**, Weide Li, **Da Zhou\***. [DGI-GRU: Integrating dynamic graph convolution for enhanced spatio-temporal information extraction.](https://doi.org/10.1016/j.neucom.2025.130757) *Neurocomputing*,  649 (2025), 130757.
 - **Jiaxing Liu（人工智能研究院2022级硕士，与汪骋教授联合培养）**, Pengkun Su, Bingling Dai, **Da Zhou\***, Cheng Wang\*. [Anomaly Detection Algorithm for Searching Selective Catalyst Differentiating Linear and Cyclic Alkanes in Oxidation](https://onlinelibrary.wiley.com/doi/10.1002/cjoc.70046). *Chinese Journal of Chemistry*.
 - Yan Shen, Nan Fang, **Xinru Liu(2023级博士)**, Yu Ling, Yuming Su, Tian Tan, Feng Chen, He Lin, Boxuan Zhao, Jin Wang, Duanhui Si, Shunji Xie\*, Ye Wang\*, **Da Zhou\***, Teng Zhang\*, Rong Cao\*, Cheng Wang\*. [Observation of Metal-Organic Interphase in Cu-based Electrochemical CO2-to-Ethanol Conversion.](https://www.nature.com/articles/s41467-025-57221-x) *Nature Communications*, 16 (2025): 2073. ([工作介绍](https://mp.weixin.qq.com/s/6pcBx64TjdRTwt8jgMmjHg))
