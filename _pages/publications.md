@@ -42,7 +42,7 @@ permalink: /publications/
 
 **AI for Chemistry/Graph Machine Learning**
 
-- **Zongyong Hu(2023级硕士)**, **Jiebin Su(2025届硕士毕业生)**, **Jiaxing Liu（人工智能研究院2025届硕士毕业生，与汪骋教授联合培养）**, Cheng Wang\*, **Da Zhou\***. CHIMERA: A Multi-Level Representation Framework for Predicting Asymmetric Catalytic Reactions, accepted by *Chemometrics and Intelligent Laboratory Systems*.
+- **Zongyong Hu(2023级硕士)**, **Jiebin Su(2025届硕士毕业生)**, **Jiaxing Liu（人工智能研究院2025届硕士毕业生，与汪骋教授联合培养）**, Cheng Wang\*, **Da Zhou\***. [CHIMERA: A Multi-Level Representation Framework for Predicting Asymmetric Catalytic Reactions](https://www.sciencedirect.com/science/article/pii/S0169743926002935). *Chemometrics and Intelligent Laboratory Systems*, Volume 280, 15 January 2027, 105920.
 - **Zongyong Hu(2023级硕士)**, **Xinru Liu(2023级博士)\***, **Da Zhou\***. [EvoST-GRU: A dynamic graph spatio-temporal framework for air pollution prediction](https://www.aimsciences.org/article/doi/10.3934/dcdsi.A260102). *Discrete and Continuous Dynamical Systems-I: Intelligence*, 1 (1), 2026.
 - **Xinru Liu(2023级博士)**, Weide Li, **Da Zhou\***. [DGI-GRU: Integrating dynamic graph convolution for enhanced spatio-temporal information extraction.](https://doi.org/10.1016/j.neucom.2025.130757) *Neurocomputing*,  649 (2025), 130757.
 - **Jiaxing Liu（人工智能研究院2022级硕士，与汪骋教授联合培养）**, Pengkun Su, Bingling Dai, **Da Zhou\***, Cheng Wang\*. [Anomaly Detection Algorithm for Searching Selective Catalyst Differentiating Linear and Cyclic Alkanes in Oxidation](https://onlinelibrary.wiley.com/doi/10.1002/cjoc.70046). *Chinese Journal of Chemistry*.
