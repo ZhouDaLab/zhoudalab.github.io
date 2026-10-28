@@ -14,6 +14,7 @@ permalink: /publications/
 
 **Computational Biology/Mathematical Biology/Bioinformatics**
 
+- **Sirong Chen(2026届硕士毕业生)\#**，Qi Guan\#, **Da Zhou\***, Lihua Duan\*, Jie Hu\*. [SPFuseRanker: A Multi-Importance Score Fusion Framework for Core Microbiome Identification in Metagenomic Data.](https://ieeexplore.ieee.org/abstract/document/11689734/) *IEEE Transactions on Computational Biology and Bioinformatics*.
 - **Kun Wang(2026届博士毕业生)\#**, **Rui Meng(2024级博士)\#**, Zheng Hu\*, **Da Zhou\***. [Towards a Quantitative Understanding of Cellular Dynamics via Lineage Tracing Inference.](https://www.global-sci.com/csiam-ls/article/view/24772) *CSIAM Transactions on Life Sciences*. Vol. 2, No. 3 (2026) · pp. 495-521.
 - **Mengfan Tan(2024级博士)**, **Shaoqing Chen(2025届博士毕业生)**, Chunjin Wei, **Da Zhou\***. [Bistability and Noise-Induced Evasion in Tumor-Immune Dynamics with Antigen Accumulation and Immune Escape.](https://epubs.siam.org/doi/epdf/10.1137/25M1794942) SIAM Journal on Applied Mathematics, Volume 86, Issue 5, 2026, 2299-2614.
 - **Yuman Wang(2018级硕士，2021级博士)\***, **Mengfan Tan(2024级博士)\***, **Da Zhou\***. [Modeling the Impact of Dedifferentiation on Colorectal Cancer Growth and Chemo-Immunotherapy Response.](https://link.springer.com/article/10.1007/s11538-025-01496-0) *Bulletin of Mathematical Biology*. 87, 113 (2025).
