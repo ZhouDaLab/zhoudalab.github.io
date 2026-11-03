@@ -14,6 +14,7 @@ permalink: /publications/
 
 **Computational Biology/Mathematical Biology/Bioinformatics**
 
+- **Rui Meng(2024级博士)\#**, **Kun Wang(2026届博士毕业生)\#**, Jie Hu\*, Zheng Hu\*, **Da Zhou\***. scPhyloGRN : gene regulatory network inference guided by lineage topology in single-cell developmental data, *Bioinformatics*.
 - **Sirong Chen(2026届硕士毕业生)\#**，Qi Guan\#, **Da Zhou\***, Lihua Duan\*, Jie Hu\*. [SPFuseRanker: A Multi-Importance Score Fusion Framework for Core Microbiome Identification in Metagenomic Data.](https://ieeexplore.ieee.org/abstract/document/11689734/) *IEEE Transactions on Computational Biology and Bioinformatics*.
 - **Kun Wang(2026届博士毕业生)\#**, **Rui Meng(2024级博士)\#**, Zheng Hu\*, **Da Zhou\***. [Towards a Quantitative Understanding of Cellular Dynamics via Lineage Tracing Inference.](https://www.global-sci.com/csiam-ls/article/view/24772) *CSIAM Transactions on Life Sciences*. Vol. 2, No. 3 (2026) · pp. 495-521.
 - **Mengfan Tan(2024级博士)**, **Shaoqing Chen(2025届博士毕业生)**, Chunjin Wei, **Da Zhou\***. [Bistability and Noise-Induced Evasion in Tumor-Immune Dynamics with Antigen Accumulation and Immune Escape.](https://epubs.siam.org/doi/epdf/10.1137/25M1794942) SIAM Journal on Applied Mathematics, Volume 86, Issue 5, 2026, 2299-2614.
