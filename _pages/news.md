@@ -8,6 +8,7 @@ permalink: /news/
 
 ### 2026年
 
+- 课题组与胡政老师、胡杰老师合作论文《scPhyloGRN : gene regulatory network inference guided by lineage topology in single-cell developmental data》被Bioinformatics接收。
 - 课题组与汪骋老师课题组合作论文《CHIMERA: A Multi-Level Representation Framework for Predicting Asymmetric Catalytic Reactions》被Chemometrics and Intelligent Laboratory Systems杂志接收。
 - 课题组与胡杰老师合作论文《SPFuseRanker: A Multi-Importance Score Fusion Framework for Core Microbiome Identification in Metagenomic Data》被IEEE Transactions on Computational Biology and Bioinformatics杂志接收。
 - 课题组与胡政老师合作综述论文《Towards a Quantitative Understanding of Cellular Dynamics via Lineage Tracing Inference》被CSIAM-LS杂志接收。
