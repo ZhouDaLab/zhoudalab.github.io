@@ -21,7 +21,7 @@ Email：zhouda@xmu.edu.cn
 
 ### Research Interests  
 - Applied Stochastic Processes
-- Mathematical Biology, Computational Biology  
+- Computational Biology  
 - Machine Learning  
 - AI for Science
 
@@ -130,12 +130,12 @@ Email：zhouda@xmu.edu.cn
 &emsp;***AIP Advances***,  
 &emsp;***Viruses***,  
 &emsp;***Mathematics***,  
-&emsp;***International Journal of High Speed Electronics and Systems***,  
-&emsp;***厦门大学学报自然科学版***
+
 
 ### Teaching 
 - Probability (概率论，厦门大学校级一流课程)
-- Nonparameteric statistics (非参数统计) 
+- Nonparameteric statistics (非参数统计)
+- Stochastic processes (随机过程) 
 - Stochastic calculas (随机分析)
 - Modern statistical methods (现代数据统计分析)
 - Mathematics in natural sciences (自然科学中的数学，福建省教改项目)
